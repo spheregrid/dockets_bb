@@ -1,14 +1,45 @@
 # BBBY pocket-docket-rocket searches
-Scanned to docket `2424` on `07 October 2023` 12:03 ET | 17:03 GMT.
+Scanned to docket `2472` on `05 November 2023` 05:32 ET | 10:32 GMT.
 
 Docket searches are done on my computer and take a large amount of pre-processing to prepare the data for searching.
-I am building a web-app that can allow you to call your own searches on the data in real-time in your browser.
-In the meantime, I am publishing the results of my searches here.
 Message me to add new search terms which in turn will appear here on the next update.
 
 
-Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 1729, 2032, 2088, 2115, 2131, 2175, 2280, 2406]</sup>
+Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 1729, 2032, 2088, 2115, 2131, 2175, 2280, 2406, 2467, 2468, 2540]</sup>
 
+
+## Updated searches <sup>(docket 2425 to 2472)</sup>:
+1. <sup>com</sup> [Alvarez Marsal North](com_Alvarez_Marsal_North.md) <sup>2</sup> <sup>`3` hits</sup> <sup>[`2449`]</sup>
+1. <sup>com</sup> [Buy Buy Baby Inc](com_Buy_Buy_Baby_Inc.md) <sup>4</sup> <sup>`14` hits</sup> <sup>[`2435`, `2461`, `2462`, `2463`, `2464`, `2465`, `2466`]</sup>
+1. <sup>com</sup> [Department of Justice](com_Department_of_Justice.md) <sup>2</sup> <sup>`4` hits</sup> <sup>[`2438`, `2453`]</sup>
+1. <sup>com</sup> [Dewar Capital](com_Dewar_Capital.md) <sup>1</sup> <sup>`9` hits</sup> <sup>[`2435`, `2448`, `2461`, `2462`, `2463`, `2464`, `2465`, `2466`, `2472`]</sup>
+1. <sup>com</sup> [DoorDash](com_DoorDash.md) <sup>1</sup> <sup>`9` hits</sup> <sup>[`2435`, `2448`, `2461`, `2462`, `2463`, `2464`, `2465`, `2466`, `2472`]</sup>
+1. <sup>com</sup> [JLL](com_JLL.md) <sup>1</sup> <sup>`1` hit</sup> <sup>[`2431`]</sup>
+1. <sup>com</sup> [Lazard](com_Lazard.md) <sup>1</sup> <sup>`1` hit</sup> <sup>[`2426`]</sup>
+1. <sup>com</sup> [Liberty Procurement](com_Liberty_Procurement.md) <sup>1</sup> <sup>`12` hits</sup> <sup>[`2435`, `2448`, `2458`, `2460`, `2461`, `2462`, `2463`, `2464`, `2465`, `2466`, `2472`]</sup>
+1. <sup>com</sup> [Pachulski Stang Ziehl](com_Pachulski_Stang_Ziehl.md) <sup>2</sup> <sup>`8` hits</sup> <sup>[`2431`, `2437`, `2438`, `2449`]</sup>
+1. <sup>com</sup> [Press Release](com_Press_Release.md) <sup>1</sup> <sup>`3` hits</sup> <sup>[`2437`]</sup>
+1. <sup>com</sup> [Proskauer Rose](com_Proskauer_Rose.md) <sup>1</sup> <sup>`4` hits</sup> <sup>[`2431`, `2437`, `2438`]</sup>
+1. <sup>com</sup> [SEC](com_SEC.md) <sup>1</sup> <sup>`5` hits</sup> <sup>[`2437`, `2438`]</sup>
+1. <sup>com</sup> [Shark Ninja](com_Shark_Ninja.md) <sup>1</sup> <sup>`1` hit</sup> <sup>[`2438`]</sup>
+1. <sup>fin</sup> [Non Operating Losses](fin_Non_Operating_Losses.md) <sup>3</sup> <sup>`1` hit</sup> <sup>[`2431`]</sup>
+1. <sup>fin</sup> [Stockholder](fin_Stockholder.md) <sup>3</sup> <sup>`2` hits</sup> <sup>[`2426`, `2431`]</sup>
+1. <sup>gen</sup> [Adversary](gen_Adversary.md) <sup>1</sup> <sup>`3` hits</sup> <sup>[`2426`, `2429`]</sup>
+1. <sup>law</sup> [Section 503](law_Section_503.md) <sup>6</sup> <sup>`67` hits</sup> <sup>[`2431`, `2433`, `2437`, `2439`, `2441`, `2443`, `2452`, `2456`, `2457`, `2458`, `2459`, `2460`, `2461`, `2470`]</sup>
+1. <sup>leg</sup> [Carveout](leg_Carveout.md) <sup>3</sup> <sup>`2` hits</sup> <sup>[`2426`]</sup>
+1. <sup>leg</sup> [Chapter 11 Plan](leg_Chapter_11_Plan.md) <sup>5</sup> <sup>`19` hits</sup> 🚪 <sup>[`2426`, `2439`, `2441`, `2443`, `2444`, `2453`, `2456`, `2457`, `2458`, `2459`, `2460`]</sup>
+1. <sup>leg</sup> [Cooperation Agreement](leg_Cooperation_Agreement.md) <sup>1</sup> <sup>`3` hits</sup> <sup>[`2426`]</sup>
+1. <sup>leg</sup> [Going Concern Sale](leg_Going_Concern_Sale.md) <sup>2</sup> <sup>`1` hit</sup> <sup>[`2431`]</sup>
+1. <sup>leg</sup> [Investigation](leg_Investigation.md) <sup>1</sup> <sup>`43` hits</sup> <sup>[`2426`, `2431`, `2453`, `2460`]</sup>
+1. <sup>leg</sup> [Monthly Fee Statement](leg_Monthly_Fee_Statement.md) <sup>3</sup> <sup>`27` hits</sup> <sup>[`2426`, `2434`, `2438`, `2449`]</sup>
+1. <sup>leg</sup> [Parties In Interest](leg_Parties_In_Interest.md) <sup>1</sup> <sup>`2` hits</sup> <sup>[`2426`, `2460`]</sup>
+1. <sup>leg</sup> [Plan Supplement](leg_Plan_Supplement.md) <sup>1</sup> <sup>`12` hits</sup> <sup>[`2426`]</sup>
+1. <sup>leg</sup> [Public Announcement](leg_Public_Announcement.md) <sup>1</sup> <sup>`1` hit</sup> <sup>[`2437`]</sup>
+1. <sup>leg</sup> [Restrictive](leg_Restrictive.md) <sup>2</sup> <sup>`2` hits</sup> <sup>[`2431`]</sup>
+1. <sup>ppl</sup> [J. Cohen](ppl_J._Cohen.md) <sup>4</sup> <sup>`18` hits</sup> 🐍 <sup>[`2435`, `2448`, `2461`, `2462`, `2463`, `2464`, `2465`, `2466`, `2472`]</sup>
+1. <sup>ppl</sup> [L. Squitieri](ppl_L._Squitieri.md) <sup>3</sup> <sup>`18` hits</sup> 🐍 <sup>[`2435`, `2448`, `2461`, `2462`, `2463`, `2464`, `2465`, `2466`, `2472`]</sup>
+1. <sup>ppl</sup> [O. Acuna](ppl_O._Acuna.md) <sup>7</sup> <sup>`5` hits</sup> <sup>[`2431`, `2437`, `2461`, `2465`, `2466`]</sup>
+1. <sup>ppl</sup> [R. Feinstein](ppl_R._Feinstein.md) <sup>4</sup> <sup>`3` hits</sup> <sup>[`2431`, `2437`, `2449`]</sup>
 
 ## Updated searches <sup>(docket 2286 to 2424)</sup>:
 1. <sup>com</sup> [AJG Enterprises](com_AJG_Enterprises.md) <sup>1</sup> <sup>`4` hits</sup> <sup>[`2301`, `2389`, `2417`, `2424`]</sup>
@@ -110,15 +141,6 @@ Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 172
 ## Updated searches <sup>(docket 2273 to 2274)</sup>:
 1. <sup>leg</sup> [Parties In Interest](leg_Parties_In_Interest.md) <sup>1</sup> <sup>`1` hit</sup> <sup>[`2274`]</sup>
 
-## Updated searches <sup>(docket 2216 to 2272)</sup>:
-1. <sup>com</sup> [Department of Justice](com_Department_of_Justice.md) <sup>2</sup> <sup>`2` hits</sup> <sup>[`2272`]</sup>
-1. <sup>com</sup> [Liberty Procurement](com_Liberty_Procurement.md) <sup>1</sup> <sup>`5` hits</sup> <sup>[`2267`]</sup>
-1. <sup>com</sup> [Pachulski Stang Ziehl](com_Pachulski_Stang_Ziehl.md) <sup>2</sup> <sup>`2` hits</sup> <sup>[`2272`]</sup>
-1. <sup>com</sup> [Proskauer Rose](com_Proskauer_Rose.md) <sup>1</sup> <sup>`2` hits</sup> <sup>[`2272`]</sup>
-1. <sup>com</sup> [SEC](com_SEC.md) <sup>1</sup> <sup>`4` hits</sup> <sup>[`2272`]</sup>
-1. <sup>com</sup> [Shark Ninja](com_Shark_Ninja.md) <sup>1</sup> <sup>`1` hit</sup> <sup>[`2272`]</sup>
-1. <sup>leg</sup> [Chapter 11 Plan](leg_Chapter_11_Plan.md) <sup>5</sup> <sup>`1` hit</sup> 🚪 <sup>[`2272`]</sup>
-
 ## Glossary of all searches:
 1. <sup>adr</sup> [1505 Precinct Line](adr_1505_Precinct_Line.md) <sup>1</sup> <sup>`7` hits in `6` dockets</sup>
 1. <sup>adr</sup> [235 Government Center](adr_235_Government_Center.md) <sup>1</sup> <sup>`6` hits in `5` dockets</sup>
@@ -130,12 +152,12 @@ Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 172
 1. <sup>com</sup> [AJG Enterprises](com_AJG_Enterprises.md) <sup>1</sup> <sup>`175` hits in `155` dockets</sup>
 1. <sup>com</sup> [~~Adani Group~~](com_Adani_Group.md) <sup>1</sup>
 1. <sup>com</sup> [~~Addison Holdings~~](com_Addison_Holdings.md) <sup>1</sup>
-1. <sup>com</sup> [Alvarez Marsal North](com_Alvarez_Marsal_North.md) <sup>2</sup> <sup>`112` hits in `51` dockets</sup>
+1. <sup>com</sup> [Alvarez Marsal North](com_Alvarez_Marsal_North.md) <sup>2</sup> <sup>`115` hits in `52` dockets</sup>
 1. <sup>com</sup> [BBBY Acquisition Co](com_BBBY_Acquisition_Co.md) <sup>1</sup> <sup>`34` hits in `11` dockets</sup>
 1. <sup>com</sup> [~~BBBY MS Investor~~](com_BBBY_MS_Investor.md) <sup>1</sup>
 1. <sup>com</sup> [BlockFi](com_BlockFi.md) <sup>1</sup> <sup>`32` hits in `21` dockets</sup>
 1. <sup>com</sup> [~~Buy Buy Baby Global~~](com_Buy_Buy_Baby_Global.md) <sup>4</sup>
-1. <sup>com</sup> [Buy Buy Baby Inc](com_Buy_Buy_Baby_Inc.md) <sup>4</sup> <sup>`784` hits in `382` dockets</sup>
+1. <sup>com</sup> [Buy Buy Baby Inc](com_Buy_Buy_Baby_Inc.md) <sup>4</sup> <sup>`798` hits in `389` dockets</sup>
 1. <sup>com</sup> [Cape Fear Public Utility](com_Cape_Fear_Public_Utility.md) <sup>1</sup> <sup>`28` hits in `18` dockets</sup>
 1. <sup>com</sup> [~~Catterton~~](com_Catterton.md) <sup>1</sup>
 1. <sup>com</sup> [Chewy](com_Chewy.md) <sup>1</sup> <sup>`1` hits in `1` dockets</sup>
@@ -144,30 +166,30 @@ Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 172
 1. <sup>com</sup> [Cleary Gottlieb Steen](com_Cleary_Gottlieb_Steen.md) <sup>2</sup> <sup>`50` hits in `30` dockets</sup>
 1. <sup>com</sup> [~~Cohen Capital~~](com_Cohen_Capital.md) <sup>1</sup>
 1. <sup>com</sup> [Creatable](com_Creatable.md) <sup>1</sup> <sup>`32` hits in `27` dockets</sup>
-1. <sup>com</sup> [Department of Justice](com_Department_of_Justice.md) <sup>2</sup> <sup>`528` hits in `189` dockets</sup>
-1. <sup>com</sup> [Dewar Capital](com_Dewar_Capital.md) <sup>1</sup> <sup>`63` hits in `61` dockets</sup>
-1. <sup>com</sup> [DoorDash](com_DoorDash.md) <sup>1</sup> <sup>`273` hits in `237` dockets</sup>
+1. <sup>com</sup> [Department of Justice](com_Department_of_Justice.md) <sup>2</sup> <sup>`532` hits in `191` dockets</sup>
+1. <sup>com</sup> [Dewar Capital](com_Dewar_Capital.md) <sup>1</sup> <sup>`72` hits in `70` dockets</sup>
+1. <sup>com</sup> [DoorDash](com_DoorDash.md) <sup>1</sup> <sup>`282` hits in `246` dockets</sup>
 1. <sup>com</sup> [~~Dragonfly~~](com_Dragonfly.md) <sup>1</sup>
 1. <sup>com</sup> [~~Equinity~~](com_Equinity.md) <sup>2</sup>
 1. <sup>com</sup> [FTX](com_FTX.md) <sup>1</sup> <sup>`17` hits in `6` dockets</sup>
 1. <sup>com</sup> [Gamestop](com_Gamestop.md) <sup>1</sup> <sup>`42` hits in `17` dockets</sup>
 1. <sup>com</sup> [~~IEP~~](com_IEP.md) <sup>2</sup>
-1. <sup>com</sup> [JLL](com_JLL.md) <sup>1</sup> <sup>`563` hits in `64` dockets</sup>
+1. <sup>com</sup> [JLL](com_JLL.md) <sup>1</sup> <sup>`564` hits in `65` dockets</sup>
 1. <sup>com</sup> [JLP Cranberry](com_JLP_Cranberry.md) <sup>1</sup> <sup>`21` hits in `18` dockets</sup>
 1. <sup>com</sup> [~~Koda Capital~~](com_Koda_Capital.md) <sup>1</sup>
-1. <sup>com</sup> [Lazard](com_Lazard.md) <sup>1</sup> <sup>`2662` hits in `126` dockets</sup>
-1. <sup>com</sup> [Liberty Procurement](com_Liberty_Procurement.md) <sup>1</sup> <sup>`1488` hits in `467` dockets</sup>
+1. <sup>com</sup> [Lazard](com_Lazard.md) <sup>1</sup> <sup>`2663` hits in `127` dockets</sup>
+1. <sup>com</sup> [Liberty Procurement](com_Liberty_Procurement.md) <sup>1</sup> <sup>`1500` hits in `478` dockets</sup>
 1. <sup>com</sup> [Lyft](com_Lyft.md) <sup>1</sup> <sup>`21` hits in `5` dockets</sup>
 1. <sup>com</sup> [~~Olshan Frome Wolosky~~](com_Olshan_Frome_Wolosky.md) <sup>2</sup>
 1. <sup>com</sup> [Overstock](com_Overstock.md) <sup>1</sup> <sup>`542` hits in `81` dockets</sup>
-1. <sup>com</sup> [Pachulski Stang Ziehl](com_Pachulski_Stang_Ziehl.md) <sup>2</sup> <sup>`1436` hits in `369` dockets</sup>
-1. <sup>com</sup> [Press Release](com_Press_Release.md) <sup>1</sup> <sup>`81` hits in `37` dockets</sup>
-1. <sup>com</sup> [Proskauer Rose](com_Proskauer_Rose.md) <sup>1</sup> <sup>`697` hits in `350` dockets</sup>
+1. <sup>com</sup> [Pachulski Stang Ziehl](com_Pachulski_Stang_Ziehl.md) <sup>2</sup> <sup>`1444` hits in `373` dockets</sup>
+1. <sup>com</sup> [Press Release](com_Press_Release.md) <sup>1</sup> <sup>`84` hits in `38` dockets</sup>
+1. <sup>com</sup> [Proskauer Rose](com_Proskauer_Rose.md) <sup>1</sup> <sup>`701` hits in `353` dockets</sup>
 1. <sup>com</sup> [Putman Investments](com_Putman_Investments.md) <sup>1</sup> <sup>`20` hits in `17` dockets</sup>
 1. <sup>com</sup> [RC Ventures](com_RC_Ventures.md) <sup>3</sup> <sup>`160` hits in `41` dockets</sup>
 1. <sup>com</sup> [Royal Packaging](com_Royal_Packaging.md) <sup>1</sup> <sup>`71` hits in `71` dockets</sup>
-1. <sup>com</sup> [SEC](com_SEC.md) <sup>1</sup> <sup>`892` hits in `189` dockets</sup>
-1. <sup>com</sup> [Shark Ninja](com_Shark_Ninja.md) <sup>1</sup> <sup>`136` hits in `127` dockets</sup>
+1. <sup>com</sup> [SEC](com_SEC.md) <sup>1</sup> <sup>`897` hits in `191` dockets</sup>
+1. <sup>com</sup> [Shark Ninja](com_Shark_Ninja.md) <sup>1</sup> <sup>`137` hits in `128` dockets</sup>
 1. <sup>com</sup> [Susman Godfrey](com_Susman_Godfrey.md) <sup>1</sup> <sup>`5` hits in `5` dockets</sup>
 1. <sup>com</sup> [~~Tal Talents~~](com_Tal_Talents.md) <sup>1</sup>
 1. <sup>com</sup> [~~Teddy Holdings~~](com_Teddy_Holdings.md) <sup>2</sup>
@@ -184,11 +206,11 @@ Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 172
 1. <sup>fin</sup> [Crypto Token](fin_Crypto_Token.md) <sup>3</sup> <sup>`15` hits in `4` dockets</sup>
 1. <sup>fin</sup> [~~Naked Short~~](fin_Naked_Short.md) <sup>1</sup>
 1. <sup>fin</sup> [New Securities](fin_New_Securities.md) <sup>1</sup> <sup>`31` hits in `5` dockets</sup>
-1. <sup>fin</sup> [Non Operating Losses](fin_Non_Operating_Losses.md) <sup>3</sup> <sup>`140` hits in `94` dockets</sup>
-1. <sup>fin</sup> [Stockholder](fin_Stockholder.md) <sup>3</sup> <sup>`175` hits in `86` dockets</sup>
+1. <sup>fin</sup> [Non Operating Losses](fin_Non_Operating_Losses.md) <sup>3</sup> <sup>`141` hits in `95` dockets</sup>
+1. <sup>fin</sup> [Stockholder](fin_Stockholder.md) <sup>3</sup> <sup>`177` hits in `88` dockets</sup>
 1. <sup>fin</sup> [~~Tokenized~~](fin_Tokenized.md) <sup>1</sup>
 1. <sup>fin</sup> [~~Tokenized~~](fin_Tokenized.md) <sup>2</sup>
-1. <sup>gen</sup> [Adversary](gen_Adversary.md) <sup>1</sup> <sup>`299` hits in `121` dockets</sup>
+1. <sup>gen</sup> [Adversary](gen_Adversary.md) <sup>1</sup> <sup>`302` hits in `123` dockets</sup>
 1. <sup>itm</sup> [Notice Of Agenda Of Matters](itm_Notice_Of_Agenda_Of_Matters.md) <sup>1</sup> <sup>`27` hits in `25` dockets</sup>
 1. <sup>law</sup> [510b Claim](law_510b_Claim.md) <sup>1</sup> <sup>`190` hits in `17` dockets</sup>
 1. <sup>law</sup> [Class 1](law_Class_1.md) <sup>1</sup> <sup>`112` hits in `25` dockets</sup>
@@ -207,7 +229,7 @@ Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 172
 1. <sup>law</sup> [Section 269](law_Section_269.md) <sup>6</sup> <sup>`2` hits in `1` dockets</sup>
 1. <sup>law</sup> [Section 341](law_Section_341.md) <sup>6</sup> <sup>`13` hits in `9` dockets</sup>
 1. <sup>law</sup> [Section 382](law_Section_382.md) <sup>6</sup> <sup>`32` hits in `12` dockets</sup>
-1. <sup>law</sup> [Section 503](law_Section_503.md) <sup>6</sup> <sup>`406` hits in `109` dockets</sup>
+1. <sup>law</sup> [Section 503](law_Section_503.md) <sup>6</sup> <sup>`473` hits in `123` dockets</sup>
 1. <sup>leg</sup> [8-K](leg_8-K.md) <sup>2</sup> <sup>`69` hits in `14` dockets</sup>
 1. <sup>leg</sup> [AM team](leg_AM_team.md) <sup>1</sup> <sup>`377` hits in `10` dockets</sup>
 1. <sup>leg</sup> [Ad Hoc Group](leg_Ad_Hoc_Group.md) <sup>3</sup> <sup>`250` 💩 hits in `36` dockets</sup>
@@ -217,15 +239,15 @@ Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 172
 1. <sup>leg</sup> [Buyer Group](leg_Buyer_Group.md) <sup>2</sup> <sup>`154` hits in `11` dockets</sup>
 1. <sup>leg</sup> [Buyout](leg_Buyout.md) <sup>3</sup> <sup>`9` hits in `4` dockets</sup>
 1. <sup>leg</sup> [Capital Investment](leg_Capital_Investment.md) <sup>1</sup> <sup>`76` hits in `6` dockets</sup>
-1. <sup>leg</sup> [Carveout](leg_Carveout.md) <sup>3</sup> <sup>`1020` hits in `24` dockets</sup>
-1. <sup>leg</sup> [Chapter 11 Plan](leg_Chapter_11_Plan.md) <sup>5</sup> <sup>`1155` 🚪 hits in `173` dockets</sup>
+1. <sup>leg</sup> [Carveout](leg_Carveout.md) <sup>3</sup> <sup>`1022` hits in `25` dockets</sup>
+1. <sup>leg</sup> [Chapter 11 Plan](leg_Chapter_11_Plan.md) <sup>5</sup> <sup>`1174` 🚪 hits in `184` dockets</sup>
 1. <sup>leg</sup> [Closing Set](leg_Closing_Set.md) <sup>1</sup> <sup>`7` hits in `2` dockets</sup>
 1. <sup>leg</sup> [Company Agreement](leg_Company_Agreement.md) <sup>1</sup> <sup>`25` hits in `22` dockets</sup>
 1. <sup>leg</sup> [Conditions To Obligation](leg_Conditions_To_Obligation.md) <sup>1</sup> <sup>`2` hits in `1` dockets</sup>
 1. <sup>leg</sup> [Confidential Interested Party](leg_Confidential_Interested_Party.md) <sup>2</sup> <sup>`3` hits in `1` dockets</sup>
 1. <sup>leg</sup> [Confidentiality Agreement](leg_Confidentiality_Agreement.md) <sup>1</sup> <sup>`248` hits in `50` dockets</sup>
 1. <sup>leg</sup> [Converting Entity](leg_Converting_Entity.md) <sup>2</sup> <sup>`17` hits in `4` dockets</sup>
-1. <sup>leg</sup> [Cooperation Agreement](leg_Cooperation_Agreement.md) <sup>1</sup> <sup>`2` hits in `2` dockets</sup>
+1. <sup>leg</sup> [Cooperation Agreement](leg_Cooperation_Agreement.md) <sup>1</sup> <sup>`5` hits in `3` dockets</sup>
 1. <sup>leg</sup> [Cramdown](leg_Cramdown.md) <sup>3</sup> <sup>`38` hits in `8` dockets</sup>
 1. <sup>leg</sup> [Credit Bid](leg_Credit_Bid.md) <sup>1</sup> <sup>`271` hits in `54` dockets</sup>
 1. <sup>leg</sup> [~~Debt Forgiveness~~](leg_Debt_Forgiveness.md) <sup>1</sup>
@@ -241,14 +263,14 @@ Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 172
 1. <sup>leg</sup> [Full And Final Satisfaction](leg_Full_And_Final_Satisfaction.md) <sup>1</sup> <sup>`197` 💜 hits in `16` dockets</sup>
 1. <sup>leg</sup> [Full Disclosure](leg_Full_Disclosure.md) <sup>1</sup> <sup>`4` 💜 hits in `3` dockets</sup>
 1. <sup>leg</sup> [~~Full Sale~~](leg_Full_Sale.md) <sup>1</sup>
-1. <sup>leg</sup> [Going Concern Sale](leg_Going_Concern_Sale.md) <sup>2</sup> <sup>`65` hits in `27` dockets</sup>
+1. <sup>leg</sup> [Going Concern Sale](leg_Going_Concern_Sale.md) <sup>2</sup> <sup>`66` hits in `28` dockets</sup>
 1. <sup>leg</sup> [Holders Of Claims And Interests](leg_Holders_Of_Claims_And_Interests.md) <sup>1</sup> <sup>`286` hits in `20` dockets</sup>
 1. <sup>leg</sup> [~~Indentured Trustee~~](leg_Indentured_Trustee.md) <sup>1</sup>
 1. <sup>leg</sup> [~~Instruction Agent~~](leg_Instruction_Agent.md) <sup>1</sup>
 1. <sup>leg</sup> [Instruction Letter](leg_Instruction_Letter.md) <sup>1</sup> <sup>`8` hits in `2` dockets</sup>
 1. <sup>leg</sup> [Interests In BBB](leg_Interests_In_BBB.md) <sup>1</sup> <sup>`105` hits in `18` dockets</sup>
 1. <sup>leg</sup> [~~Interlocking Directorate~~](leg_Interlocking_Directorate.md) <sup>1</sup>
-1. <sup>leg</sup> [Investigation](leg_Investigation.md) <sup>1</sup> <sup>`1492` hits in `280` dockets</sup>
+1. <sup>leg</sup> [Investigation](leg_Investigation.md) <sup>1</sup> <sup>`1535` hits in `284` dockets</sup>
 1. <sup>leg</sup> [Joint Venture](leg_Joint_Venture.md) <sup>1</sup> <sup>`981` hits in `229` dockets</sup>
 1. <sup>leg</sup> [~~LBO~~](leg_LBO.md) <sup>2</sup>
 1. <sup>leg</sup> [Letter Of Intent](leg_Letter_Of_Intent.md) <sup>1</sup> <sup>`6` 📝 hits in `5` dockets</sup>
@@ -257,26 +279,26 @@ Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 172
 1. <sup>leg</sup> [Merger Acquisition](leg_Merger_Acquisition.md) <sup>5</sup> <sup>`59` hits in `19` dockets</sup>
 1. <sup>leg</sup> [~~Merger Transaction~~](leg_Merger_Transaction.md) <sup>1</sup>
 1. <sup>leg</sup> [~~Merging Entity~~](leg_Merging_Entity.md) <sup>2</sup>
-1. <sup>leg</sup> [Monthly Fee Statement](leg_Monthly_Fee_Statement.md) <sup>3</sup> <sup>`369` hits in `74` dockets</sup>
+1. <sup>leg</sup> [Monthly Fee Statement](leg_Monthly_Fee_Statement.md) <sup>3</sup> <sup>`396` hits in `78` dockets</sup>
 1. <sup>leg</sup> [NDA](leg_NDA.md) <sup>3</sup> <sup>`165` hits in `30` dockets</sup>
 1. <sup>leg</sup> [NOL Carry](leg_NOL_Carry.md) <sup>2</sup> <sup>`19` hits in `11` dockets</sup>
 1. <sup>leg</sup> [New Company](leg_New_Company.md) <sup>1</sup> <sup>`3` hits in `2` dockets</sup>
 1. <sup>leg</sup> [New Entity](leg_New_Entity.md) <sup>1</sup> <sup>`1` hits in `1` dockets</sup>
 1. <sup>leg</sup> [~~Non Competition~~](leg_Non_Competition.md) <sup>1</sup>
-1. <sup>leg</sup> [Parties In Interest](leg_Parties_In_Interest.md) <sup>1</sup> <sup>`1397` hits in `479` dockets</sup>
+1. <sup>leg</sup> [Parties In Interest](leg_Parties_In_Interest.md) <sup>1</sup> <sup>`1399` hits in `481` dockets</sup>
 1. <sup>leg</sup> [~~Persons of Interest~~](leg_Persons_of_Interest.md) <sup>2</sup>
 1. <sup>leg</sup> [Plan Sponsor](leg_Plan_Sponsor.md) <sup>1</sup> <sup>`39` hits in `12` dockets</sup>
-1. <sup>leg</sup> [Plan Supplement](leg_Plan_Supplement.md) <sup>1</sup> <sup>`923` hits in `32` dockets</sup>
+1. <sup>leg</sup> [Plan Supplement](leg_Plan_Supplement.md) <sup>1</sup> <sup>`935` hits in `33` dockets</sup>
 1. <sup>leg</sup> [~~Poison Pill~~](leg_Poison_Pill.md) <sup>1</sup>
 1. <sup>leg</sup> [Potential Offer](leg_Potential_Offer.md) <sup>2</sup> <sup>`2` hits in `2` dockets</sup>
 1. <sup>leg</sup> [Proposed Counsel](leg_Proposed_Counsel.md) <sup>1</sup> <sup>`175` hits in `101` dockets</sup>
-1. <sup>leg</sup> [Public Announcement](leg_Public_Announcement.md) <sup>1</sup> <sup>`24` hits in `20` dockets</sup>
+1. <sup>leg</sup> [Public Announcement](leg_Public_Announcement.md) <sup>1</sup> <sup>`25` hits in `21` dockets</sup>
 1. <sup>leg</sup> [Qualified Bid](leg_Qualified_Bid.md) <sup>1</sup> <sup>`1224` hits in `78` dockets</sup>
 1. <sup>leg</sup> [~~Qualified Creditor~~](leg_Qualified_Creditor.md) <sup>1</sup>
 1. <sup>leg</sup> [Receive A Distribution](leg_Receive_A_Distribution.md) <sup>1</sup> <sup>`28` hits in `16` dockets</sup>
 1. <sup>leg</sup> [~~Reconstitute Board~~](leg_Reconstitute_Board.md) <sup>1</sup>
 1. <sup>leg</sup> [Remnant Asset](leg_Remnant_Asset.md) <sup>1</sup> <sup>`4` hits in `2` dockets</sup>
-1. <sup>leg</sup> [Restrictive](leg_Restrictive.md) <sup>2</sup> <sup>`900` hits in `136` dockets</sup>
+1. <sup>leg</sup> [Restrictive](leg_Restrictive.md) <sup>2</sup> <sup>`902` hits in `137` dockets</sup>
 1. <sup>leg</sup> [Restructuring Plan](leg_Restructuring_Plan.md) <sup>1</sup> <sup>`1` hits in `1` dockets</sup>
 1. <sup>leg</sup> [~~Reverse Merger~~](leg_Reverse_Merger.md) <sup>1</sup>
 1. <sup>leg</sup> [SEC Objections](leg_SEC_Objections.md) <sup>1</sup> <sup>`1` hits in `1` dockets</sup>
@@ -328,21 +350,21 @@ Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 172
 1. <sup>ppl</sup> [~~I. Volkov~~](ppl_I._Volkov.md) <sup>4</sup>
 1. <sup>ppl</sup> [J. C. Beck](ppl_J._C._Beck.md) <sup>11</sup> <sup>`1` hits in `1` dockets</sup>
 1. <sup>ppl</sup> [~~J. Coggins~~](ppl_J._Coggins.md) <sup>3</sup>
-1. <sup>ppl</sup> [J. Cohen](ppl_J._Cohen.md) <sup>4</sup> <sup>`710` 🐍 hits in `356` dockets</sup>
+1. <sup>ppl</sup> [J. Cohen](ppl_J._Cohen.md) <sup>4</sup> <sup>`728` 🐍 hits in `365` dockets</sup>
 1. <sup>ppl</sup> [J. Foster](ppl_J._Foster.md) <sup>3</sup> <sup>`112` hits in `31` dockets</sup>
 1. <sup>ppl</sup> [~~J. Freeman~~](ppl_J._Freeman.md) <sup>3</sup>
 1. <sup>ppl</sup> [J. Schechter](ppl_J._Schechter.md) <sup>3</sup> <sup>`9` hits in `7` dockets</sup>
 1. <sup>ppl</sup> [~~L. Cheng~~](ppl_L._Cheng.md) <sup>3</sup>
-1. <sup>ppl</sup> [L. Squitieri](ppl_L._Squitieri.md) <sup>3</sup> <sup>`708` 🐍 hits in `353` dockets</sup>
+1. <sup>ppl</sup> [L. Squitieri](ppl_L._Squitieri.md) <sup>3</sup> <sup>`726` 🐍 hits in `362` dockets</sup>
 1. <sup>ppl</sup> [~~M. Grieco~~](ppl_M._Grieco.md) <sup>10</sup>
 1. <sup>ppl</sup> [M. Lee](ppl_M._Lee.md) <sup>9</sup> <sup>`1` hits in `1` dockets</sup>
 1. <sup>ppl</sup> [M. Tritton](ppl_M._Tritton.md) <sup>8</sup> <sup>`24` 🐍 hits in `12` dockets</sup>
 1. <sup>ppl</sup> [Madoff](ppl_Madoff.md) <sup>1</sup> <sup>`3` hits in `1` dockets</sup>
-1. <sup>ppl</sup> [O. Acuna](ppl_O._Acuna.md) <sup>7</sup> <sup>`1209` hits in `235` dockets</sup>
+1. <sup>ppl</sup> [O. Acuna](ppl_O._Acuna.md) <sup>7</sup> <sup>`1214` hits in `240` dockets</sup>
 1. <sup>ppl</sup> [P. Corrie](ppl_P._Corrie.md) <sup>4</sup> <sup>`27` hits in `19` dockets</sup>
 1. <sup>ppl</sup> [P. Gross](ppl_P._Gross.md) <sup>6</sup> <sup>`43` hits in `23` dockets</sup>
 1. <sup>ppl</sup> [R. Cohen](ppl_R._Cohen.md) <sup>3</sup> <sup>`69` 🥵 hits in `51` dockets</sup>
-1. <sup>ppl</sup> [R. Feinstein](ppl_R._Feinstein.md) <sup>4</sup> <sup>`453` hits in `208` dockets</sup>
+1. <sup>ppl</sup> [R. Feinstein](ppl_R._Feinstein.md) <sup>4</sup> <sup>`456` hits in `211` dockets</sup>
 1. <sup>ppl</sup> [~~R. Nebel~~](ppl_R._Nebel.md) <sup>6</sup>
 1. <sup>ppl</sup> [S. Charles](ppl_S._Charles.md) <sup>4</sup> <sup>`70` hits in `70` dockets</sup>
 1. <sup>ppl</sup> [~~S. Freeman~~](ppl_S._Freeman.md) <sup>3</sup>
@@ -361,6 +383,6 @@ Missing dockets <sup>[2, 100, 933, 1059, 1195, 1400, 1406, 1418, 1715, 1716, 172
 ## License / Legal
 Dockets are publicly available on Kroll's restructuring site: <sup><https://restructuring.ra.kroll.com/bbby/Home-Index></sup>
 No license required to use my data at this moment. Attribution welcomed.
-Contact <sup><https://twitter.com/dr_munki></sup> for anything, including adding new search terms.
-Not a financial adviser or a lawyer; am a retail investor and computer engineer.
+Contact <sup><https://x.com/dr_munki></sup> for anything.
+Not a financial adviser or a lawyer; am a retail investor and computer scientist.
 

@@ -3,9 +3,14 @@
 
 [Back to main Index](README.md)
 
-Total hits: `65`
+Total hits: `66`
 
-Dockets hit: 348, 616, 945, 1152, 1209, 1228, 1275, 1303, 1314, 1352, 1397, 1435, 1437, 1438, 1516, 1683, 1690, 1691, 1692, 1713, 1832, 1873, 2040, 2061, 2067, 2096, 2155, 
+Dockets hit: 348, 616, 945, 1152, 1209, 1228, 1275, 1303, 1314, 1352, 1397, 1435, 1437, 1438, 1516, 1683, 1690, 1691, 1692, 1713, 1832, 1873, 2040, 2061, 2067, 2096, 2155, `2431`, 
+
+### Docket 2431
+
+#### [2431. 66. ]
+> amarack’s property through operations and through potential `going concern sale`s and the opportunity to sell the Lease. Tamarack’s claim is
 
 ### Docket 2155
 

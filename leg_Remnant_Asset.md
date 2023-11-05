@@ -5,7 +5,7 @@
 
 Total hits: `4`
 
-Dockets hit: 1852, `2298`, 
+Dockets hit: 1852, 2298, 
 
 ### Docket 2298
 

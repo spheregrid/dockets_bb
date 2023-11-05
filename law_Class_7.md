@@ -5,7 +5,7 @@
 
 Total hits: `63`
 
-Dockets hit: 1429, 1437, 1438, 1687, 1688, 1690, 1691, 1692, 1712, 1713, 1832, 1927, 1951, 2134, 2136, 2139, 2160, 2162, 2172, 2186, `2305`, 
+Dockets hit: 1429, 1437, 1438, 1687, 1688, 1690, 1691, 1692, 1712, 1713, 1832, 1927, 1951, 2134, 2136, 2139, 2160, 2162, 2172, 2186, 2305, 
 
 #### [2305. 63. (OCR img_0160)]
 > be made on account of any such Intercompany Claims. Voting: `Class 7` is either Unimpaired, and the Holders of Intercompany Claim

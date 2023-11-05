@@ -5,7 +5,7 @@
 
 Total hits: `7`
 
-Dockets hit: 123, 154, 1209, 2067, `2310`, 
+Dockets hit: 123, 154, 1209, 2067, 2310, 
 
 ### Docket 2310
 

@@ -3,9 +3,150 @@
 
 [Back to main Index](README.md)
 
-Total hits: `369`
+Total hits: `396`
 
-Dockets hit: 105, 328, 345, 377, 408, 414, 605, 606, 654, 661, 676, 690, 755, 902, 956, 957, 1158, 1159, 1160, 1209, 1210, 1211, 1287, 1288, 1390, 1391, 1402, 1476, 1477, 1497, 1516, 1534, 1682, 1683, 1684, 1685, 1686, 1697, 1825, 1848, 1855, 1860, 1873, 1884, 1894, 1897, 1898, 1899, 2033, 2034, 2040, 2057, 2061, 2067, 2077, 2094, 2095, 2096, 2127, 2130, 2158, 2166, 2169, 2171, 2173, 2174, 2188, `2294`, `2298`, `2308`, `2310`, `2398`, `2399`, `2405`, 
+Dockets hit: 105, 328, 345, 377, 408, 414, 605, 606, 654, 661, 676, 690, 755, 902, 956, 957, 1158, 1159, 1160, 1209, 1210, 1211, 1287, 1288, 1390, 1391, 1402, 1476, 1477, 1497, 1516, 1534, 1682, 1683, 1684, 1685, 1686, 1697, 1825, 1848, 1855, 1860, 1873, 1884, 1894, 1897, 1898, 1899, 2033, 2034, 2040, 2057, 2061, 2067, 2077, 2094, 2095, 2096, 2127, 2130, 2158, 2166, 2169, 2171, 2173, 2174, 2188, 2294, 2298, 2308, 2310, 2398, 2399, 2405, `2426`, `2434`, `2438`, `2449`, 
+
+### Docket 2449
+
+#### [2449. 396. ]
+> nthly Fee Statement of Alvarez & Marsal North America, LLC, `For Payment of Compensation and Reimbursement of Expenses` as Financial Advisor to the Official Committee of Unsecured
+
+#### [2449. 395. ]
+> d, to the best of my knowledge, no objections to the Fourth `Monthly Fee Statement` have been filed or served on A&M in accordance with the pro
+
+#### [2449. 394. ]
+> one hundred percent \(100%\) of the expenses requested in the `Monthly Fee Statement`; or \(ii\) eighty percent \(80%\) of the fees and one hundred p
+
+#### [2449. 393. ]
+> in, not later than fourteen \(14\) days after service of said `Monthly Fee Statement` \(the “Objection Deadline”\). Upon the expiration of the Obje
+
+#### [2449. 392. ]
+> \). 
+> 
+> Pursuant to the Administrative Order, an objection to a `Monthly Fee Statement` must be filed and served on the Professional applying for f
+
+#### [2449. 391. ]
+> es incurred during the immediately preceding month \(each a “`Monthly Fee Statement`”\). 
+> 
+> Pursuant to the Administrative Order, an objection to a
+
+#### [2449. 390. ]
+>  and to the extent applicable, §§ 328\(a\) and 1103, may file `monthly fee statement`s on or before the thirtieth \(30th\) day of each calendar mon
+
+#### [2449. 389. ]
+> 023 Through August 31, 2023 \[Docket 
+> 
+> No. 2294\] \(the “Fourth `Monthly Fee Statement`”\). 
+> 
+> The Administrative Order provides that each professiona
+
+#### [2449. 388. ]
+> varez & Marsal North America, LLC \(“A&M”\), filed its Fourth `Monthly Fee Statement` of Alvarez & Marsal North America, LLC, For Payment of Comp
+
+### Docket 2438
+
+#### [2438. 387. ]
+> nd \(III\) Granting Related Relief \[Docket No. 2295\]
+> 
+> Attorney `Monthly Fee Statement` for the Period August 1, 2023 through August 31, 2023 \[Dock
+
+### Docket 2434
+
+#### [2434. 386. ]
+> \(100%\) percent of the expenses requested in the August 2023 `Monthly Fee Statement`. 
+> 
+>  /s/ Michael D. Sirota MICHAEL D. SIROTA 
+> 
+>  DATED: October
+
+#### [2434. 385. ]
+> nd belief, no objections have been filed to the August 2023 `Monthly Fee Statement`. 
+> 
+> Accordingly, the Debtors should be instructed to pay Cole
+
+#### [2434. 384. ]
+>  to the Administrative Order, objections to the August 2023 `Monthly Fee Statement` were due by October 11, 2023. 
+> 
+> To the best of my knowledge,
+
+#### [2434. 383. ]
+> hrough August 31, 2023 \[Docket No. 2298\] \(the “August 2023 
+> 
+> `Monthly Fee Statement`”\). Pursuant to the Administrative Order, objections to the
+
+#### [2434. 382. ]
+> objection. 
+> 
+> 2 
+> 
+> On September 27, 2023, Cole Schotz filed its `Monthly Fee Statement` for the period covering August 1 through August 31, 2023 \[D
+
+#### [2434. 381. ]
+> one hundred percent \(100%\) of the expenses requested in the `Monthly Fee Statement`; or \(ii\) eighty percent \(80%\) of the fees and one hundred p
+
+#### [2434. 380. ]
+> in, not later than fourteen \(14\) days after service of said `Monthly Fee Statement` \(the “Objection Deadline”\). Upon the expiration of the Obje
+
+#### [2434. 379. ]
+> \). 
+> 
+> Pursuant to the Administrative Order, an objection to a `Monthly Fee Statement` must be filed and served on the Professional applying for f
+
+#### [2434. 378. ]
+> es incurred during the immediately preceding month \(each a “`Monthly Fee Statement`”\). 
+> 
+> Pursuant to the Administrative Order, an objection to a
+
+#### [2434. 377. ]
+>  and to the extent applicable, §§ 328\(a\) and 1103, may file `monthly fee statement`s on or before the thirtieth \(30th\) day of each calendar mon
+
+#### [2434. 376. ]
+> \(Jointly Administered\) 
+> 
+>  
+> 
+> CERTIFICATION OF NO OBJECTION TO 
+> 
+> `MONTHLY FEE STATEMENT` OF COLE SCHOTZ P.C. 
+> 
+> MICHAEL D. SIROTA, of full age, hereby
+
+### Docket 2426
+
+#### [2426. 375. ]
+> ESITE CONFORMED PDF RE: CERTIF 
+> 
+> OF NO OBJECTION FOR CS JULY `MONTHLY FEE STATEMENT` 
+> 
+> \(.30\) 
+> 
+>  09/12/23 FRY EMAILS WITH CO-COUNSEL RE ALIX FEE AP
+
+#### [2426. 374. ]
+> ARESSIS RE: CERTIF OF NO 0.50 190.00 
+> 
+> OBJECTION FOR CS JULY `MONTHLY FEE STATEMENT` \(.20\); 
+> 
+> CMECF SUBMISSION FILESITE CONFORMED PDF RE: CERTIF
+
+#### [2426. 373. ]
+> le 2014; and \(v\) attach any such Contractor invoices to its `monthly fee statement`s, interim fee applications and/or final fee applications fi
+
+#### [2426. 372. ]
+> quested by Project Category”\); and \(iv\) provide any and all `monthly fee statement`s, interim fee applications, and final fee applications in “
+
+#### [2426. 371. ]
+> percentage of dividend paid to creditors: This is the sixth `monthly fee statement`. The exact percentage of dividend paid to creditors is unkn
+
+#### [2426. 370. ]
+> D STATES BANKRUPTCY COURT 
+> 
+> DISTRICT OF NEW JERSEY 
+> 
+> ATTORNEY `MONTHLY FEE STATEMENT` COVER SHEET 
+> 
+> FOR THE PERIOD SEPTEMBER 1, 2023 THROUGH SEPTE
 
 ### Docket 2405
 

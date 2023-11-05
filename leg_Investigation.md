@@ -3,9 +3,294 @@
 
 [Back to main Index](README.md)
 
-Total hits: `1492`
+Total hits: `1535`
 
-Dockets hit: 6, 8, 10, 12, 29, 35, 41, 69, 71, 76, 92, 93, 123, 134, 137, 138, 154, 157, 193, 269, 274, 295, 345, 349, 350, 413, 414, 415, 422, 446, 495, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 570, 604, 605, 637, 646, 653, 660, 661, 676, 690, 704, 708, 716, 718, 724, 727, 729, 730, 742, 760, 761, 766, 772, 779, 781, 788, 791, 795, 877, 879, 887, 888, 890, 892, 893, 901, 908, 919, 926, 954, 956, 957, 959, 967, 998, 1008, 1019, 1035, 1044, 1058, 1086, 1100, 1117, 1119, 1139, 1150, 1152, 1155, 1156, 1157, 1158, 1159, 1161, 1170, 1187, 1209, 1210, 1228, 1232, 1275, 1279, 1281, 1290, 1293, 1295, 1305, 1310, 1312, 1314, 1318, 1340, 1344, 1352, 1399, 1408, 1415, 1416, 1420, 1435, 1437, 1438, 1447, 1449, 1460, 1471, 1481, 1483, 1484, 1485, 1486, 1489, 1496, 1497, 1498, 1511, 1513, 1516, 1520, 1526, 1531, 1532, 1534, 1542, 1543, 1544, 1545, 1548, 1564, 1594, 1612, 1627, 1674, 1681, 1682, 1683, 1687, 1688, 1690, 1691, 1692, 1695, 1703, 1704, 1705, 1710, 1712, 1713, 1720, 1733, 1737, 1738, 1739, 1744, 1825, 1830, 1832, 1833, 1834, 1848, 1869, 1870, 1873, 1921, 1927, 1930, 1951, 2034, 2059, 2061, 2067, 2081, 2095, 2096, 2106, 2135, 2149, 2154, 2160, 2163, 2172, 2186, `2294`, `2298`, `2305`, `2308`, `2310`, `2398`, `2401`, `2403`, `2410`, 
+Dockets hit: 6, 8, 10, 12, 29, 35, 41, 69, 71, 76, 92, 93, 123, 134, 137, 138, 154, 157, 193, 269, 274, 295, 345, 349, 350, 413, 414, 415, 422, 446, 495, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 570, 604, 605, 637, 646, 653, 660, 661, 676, 690, 704, 708, 716, 718, 724, 727, 729, 730, 742, 760, 761, 766, 772, 779, 781, 788, 791, 795, 877, 879, 887, 888, 890, 892, 893, 901, 908, 919, 926, 954, 956, 957, 959, 967, 998, 1008, 1019, 1035, 1044, 1058, 1086, 1100, 1117, 1119, 1139, 1150, 1152, 1155, 1156, 1157, 1158, 1159, 1161, 1170, 1187, 1209, 1210, 1228, 1232, 1275, 1279, 1281, 1290, 1293, 1295, 1305, 1310, 1312, 1314, 1318, 1340, 1344, 1352, 1399, 1408, 1415, 1416, 1420, 1435, 1437, 1438, 1447, 1449, 1460, 1471, 1481, 1483, 1484, 1485, 1486, 1489, 1496, 1497, 1498, 1511, 1513, 1516, 1520, 1526, 1531, 1532, 1534, 1542, 1543, 1544, 1545, 1548, 1564, 1594, 1612, 1627, 1674, 1681, 1682, 1683, 1687, 1688, 1690, 1691, 1692, 1695, 1703, 1704, 1705, 1710, 1712, 1713, 1720, 1733, 1737, 1738, 1739, 1744, 1825, 1830, 1832, 1833, 1834, 1848, 1869, 1870, 1873, 1921, 1927, 1930, 1951, 2034, 2059, 2061, 2067, 2081, 2095, 2096, 2106, 2135, 2149, 2154, 2160, 2163, 2172, 2186, 2294, 2298, 2305, 2308, 2310, 2398, 2401, 2403, 2410, `2426`, `2431`, `2453`, `2460`, 
+
+### Docket 2460
+
+#### [2460. 1535. ]
+> dditional documents that may become available after further `investigation` and discovery. 
+> 
+>  
+> 
+> -3- 
+> 
+> The Claimant reserves all rights it
+
+#### [2453. 1534. (OCR img_0310)]
+> with any and all relevant facts which continuing discovery, `investigation`, examination and cross-examination may revcal: 15 . State w
+
+#### [2453. 1533. (OCR img_0300)]
+> rmation which may be revealed through continuing discovery, `investigation`, examination and cross-examination. 13 . Pursuant to R 4:10
+
+#### [2453. 1532. (OCR img_0300)]
+> rmation which may be revcaled through continuing discovery, `investigation`, examination and cross-examination: 12. If you intend to re
+
+#### [2453. 1531. (OCR img_0300)]
+> with any and all relevant facts which continuing discovery, `investigation`, examination and cross-examination may reveal 10 . State th
+
+#### [2453. 1530. (OCR img_0290)]
+> rmation which may be revealed through continuing discovery, `investigation`, examination and cross-examination. they
+
+#### [2453. 1529. (OCR img_0290)]
+> rmation which may be revealed through continuing discovery, `investigation`, examination and cross-examination. 8\_ State the names and
+
+#### [2453. 1528. (OCR img_0290)]
+> with any and all rclevant facts which continuing discovery, `investigation`, examination and cross-examination may reveal: 7. If you co
+
+#### [2453. 1527. (OCR img_0290)]
+> with any and all relevant facts which continuing discovcry, `investigation`, examination and cross-examination may reveal 6 If you clai
+
+#### [2453. 1526. (OCR img_0280)]
+> persons with relevant knowledge which continuing discovery, `investigation`, examination and cross-examination may reveal,
+
+#### [2453. 1525. (OCR img_0280)]
+> ories, all discovery, and any and all facts that continuing `investigation`, examination and cross-examination may reveal 4 State the n
+
+#### [2453. 1524. (OCR img_0280)]
+> with any and all relevant facts which continuing discovery, `investigation`, examination and cross-examination may reveal: 3\_ If you in
+
+#### [2453. 1523. (OCR img_0270)]
+> with any and all relevant facts which continuing discovery, `investigation`, examination and eross-exarinaliOn Inay reveal,
+
+#### [2453. 1522. (OCR img_0250)]
+> ment\(s\) on the grounds that defendant has not completed the `investigation` of facts relating to this action, Discovery and defendant's
+
+#### [2453. 1521. (OCR img_0032)]
+> with any and all relevant facts which continuing discovery, `investigation`, examination and cross-examination may revcal: 15 . State w
+
+#### [2453. 1520. (OCR img_0031)]
+> rmation which may be revealed through continuing discovery, `investigation`, examination and cross-examination. 13 . Pursuant to R 4:10
+
+#### [2453. 1519. (OCR img_0031)]
+> rmation which may be revcaled through continuing discovery, `investigation`, examination and cross-examination: 12. If you intend to re
+
+#### [2453. 1518. (OCR img_0031)]
+> with any and all relevant facts which continuing discovery, `investigation`, examination and cross-examination may reveal 10 . State th
+
+#### [2453. 1517. (OCR img_0030)]
+> rmation which may be revealed through continuing discovery, `investigation`, examination and cross-examination. they
+
+#### [2453. 1516. (OCR img_0030)]
+> rmation which may be revealed through continuing discovery, `investigation`, examination and cross-examination. 8\_ State the names and
+
+#### [2453. 1515. (OCR img_0030)]
+> with any and all rclevant facts which continuing discovery, `investigation`, examination and cross-examination may reveal: 7. If you co
+
+#### [2453. 1514. (OCR img_0030)]
+> with any and all relevant facts which continuing discovcry, `investigation`, examination and cross-examination may reveal 6 If you clai
+
+#### [2453. 1513. (OCR img_0029)]
+> persons with relevant knowledge which continuing discovery, `investigation`, examination and cross-examination may reveal,
+
+#### [2453. 1512. (OCR img_0029)]
+> ories, all discovery, and any and all facts that continuing `investigation`, examination and cross-examination may reveal 4 State the n
+
+#### [2453. 1511. (OCR img_0029)]
+> with any and all relevant facts which continuing discovery, `investigation`, examination and cross-examination may reveal: 3\_ If you in
+
+#### [2453. 1510. (OCR img_0028)]
+> with any and all relevant facts which continuing discovery, `investigation`, examination and eross-exarinaliOn Inay reveal,
+
+### Docket 2453
+
+#### [2453. 1509. (OCR img_0026)]
+> ment\(s\) on the grounds that defendant has not completed the `investigation` of facts relating to this action, Discovery and defendant's
+
+#### [2431. 1508. (OCR img_0037)]
+> pt as expressly provided herein, the parties agree that any `investigation` Or remediation ofHazardous Substances,orcureofa violation o
+
+### Docket 2431
+
+#### [2431. 1507. (OCR img_0036)]
+>  \$ and subcontractor's fees; application and fees; costs of `investigation`, monitoring O cleanup of soil O other substrate, surface wa
+
+#### [2431. 1506. (OCR img_0036)]
+> ons, citation; directive, order, claim, notice, litigation, `investigation` judgment, legal pleading; letter or other communication, wr
+
+### Docket 2426
+
+#### [2426. 1505. ]
+>  
+> 
+> 09/10/23 
+> 
+> MT 
+> 
+> EMAILS TO CO-COUNSEL W. KLEIN RE: INTERNAL 
+> 
+> `INVESTIGATION` PRESENTATION \(.3\); PHONE CALL WITH W. 
+> 
+> KLEIN RE: SAME \(.5\);
+
+#### [2426. 1504. ]
+> TO UPDATED AND 
+> 
+> REVISED DRAFT OF PRESENTATION RE: INTERNAL 
+> 
+> `INVESTIGATION` \(.5\); EMAILS TO CO-COUNSEL W. KLEIN RE: 
+> 
+> SAME \(.2\) 
+> 
+> 0.70 
+> 
+> 4
+
+#### [2426. 1503. ]
+> 8/23 
+> 
+> MT 
+> 
+> CONFERENCE WITH CO-COUNSEL W. KLEIN RE: INTERNAL 
+> 
+> `INVESTIGATION` PRESENTATION ISSUES AND STRATEGY \(.7\); 
+> 
+> MULTIPLE CALLS \(3X\)
+
+#### [2426. 1502. ]
+> NTATION 
+> 
+> 2.00 
+> 
+> 1,720.00 
+> 
+> 09/08/23 
+> 
+> WAU 
+> 
+> CONTINUED REVIEW OF `INVESTIGATION` SUMMARY RE: ESTATE CLAIMS 
+> 
+> 0.80 
+> 
+> 920.00 
+> 
+> 09/08/23 
+> 
+> WFK 
+> 
+> EMA
+
+#### [2426. 1501. ]
+> UES 
+> 
+> 1.10 
+> 
+> 1,265.00 
+> 
+> 31
+> 
+>  
+> 
+> 09/07/23
+> 
+> WFK
+> 
+> REVIEW MATERIALS RE: `INVESTIGATION` OF POSSIBLE CLAIMS 
+> 
+> 1.50
+> 
+> 1,290.00 
+> 
+> 09/07/23 
+> 
+> WFK 
+> 
+> WORK ON P
+
+#### [2426. 1500. ]
+> IN RE: PRESENTATION 
+> 
+> 0.20 
+> 
+> 140.00 
+> 
+> 09/07/23 
+> 
+> WAU 
+> 
+> REVIEW CS `INVESTIGATION` REPORT REGARDING DIRECTORS & OFFICERS ISSUES 
+> 
+> 1.10 
+> 
+> 1,265.0
+
+#### [2426. 1499. ]
+> NUE TO REVIEW, REVISE, AND DRAFT PRESENTATION 
+> 
+> RE: INTERNAL `INVESTIGATION` \(3.4\); MULTIPLE EMAILS 
+> 
+> CORRESPONDENCE WITH MARKETING TEAM
+
+#### [2426. 1498. ]
+> : BBB INVESTIGATION \(0.1\); PREPARE RESPONSES \(0.2\); WORK ON `INVESTIGATION` \(0.5\) 
+> 
+> 0.80 
+> 
+> 620.00 
+> 
+> 09/05/23 
+> 
+> WFK 
+> 
+> WORK WITH M. TSUKERMAN
+
+#### [2426. 1497. ]
+> 
+> 
+> 0.20 
+> 
+> 170.00 
+> 
+> 09/05/23 
+> 
+> RTJ 
+> 
+> REVIEW CORRESPONDENCE RE: BBB `INVESTIGATION` \(0.1\); PREPARE RESPONSES \(0.2\); WORK ON INVESTIGATION \(0.5\)
+
+#### [2426. 1496. ]
+> TAINING TO SAME \(.2\) 
+> 
+> 7.40 
+> 
+> 5,180.00 
+> 
+> 09/05/23 
+> 
+> WAU 
+> 
+> REVIEW `INVESTIGATION` PRESENTATION DRAFT 
+> 
+> 0.70 
+> 
+> 805.00 
+> 
+> 09/05/23 
+> 
+> WFK 
+> 
+> CONTINUED
+
+#### [2426. 1495. ]
+>  \(.7\); REVIEW, REVISE, AND 
+> 
+> DRAFT PRESENTATION RE: INTERNAL `INVESTIGATION` \(6.2\); 
+> 
+> EMAIL TO CO-COUNSEL W. KLEIN RE: STATUS AND ISSUES
+
+#### [2426. 1494. ]
+> 5/23 
+> 
+> MT 
+> 
+> CONFERENCE WITH CO-COUNSEL W. KLEIN RE: INTERNAL 
+> 
+> `INVESTIGATION` PRESENTATION \(.3\); FOLLOW UP CALL WITH 
+> 
+> CO-COUNSEL W. KLEIN
+
+#### [2426. 1493. ]
+> nts, prepared a presentation, and advised the client on the `investigation` of officers and directors and potential litigation issues.
 
 ### Docket 2410
 

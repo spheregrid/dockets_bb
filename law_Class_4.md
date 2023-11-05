@@ -5,7 +5,7 @@
 
 Total hits: `358`
 
-Dockets hit: 1281, 1305, 1429, 1437, 1438, 1520, 1687, 1688, 1690, 1691, 1692, 1712, 1713, 1832, 2089, 2134, 2135, 2136, 2139, 2160, 2162, 2172, 2186, `2305`, 
+Dockets hit: 1281, 1305, 1429, 1437, 1438, 1520, 1687, 1688, 1690, 1691, 1692, 1712, 1713, 1832, 2089, 2134, 2135, 2136, 2139, 2160, 2162, 2172, 2186, 2305, 
 
 #### [2305. 358. (OCR img_0159)]
 > FILO released Holders of Allowed Class 4 Claimg are Voting: `Class 4` is Impaired entitied to vote to accept or reject the Plan 5

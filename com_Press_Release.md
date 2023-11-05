@@ -3,9 +3,24 @@
 
 [Back to main Index](README.md)
 
-Total hits: `81`
+Total hits: `84`
 
-Dockets hit: 28, 92, 102, 123, 137, 145, 154, 576, 641, 683, 708, 772, 791, 877, 957, 959, 998, 1086, 1117, 1152, 1161, 1209, 1275, 1312, 1314, 1340, 1344, 1352, 1397, 1415, 1416, 1531, 1930, 2067, 2096, `2294`, `2395`, 
+Dockets hit: 28, 92, 102, 123, 137, 145, 154, 576, 641, 683, 708, 772, 791, 877, 957, 959, 998, 1086, 1117, 1152, 1161, 1209, 1275, 1312, 1314, 1340, 1344, 1352, 1397, 1415, 1416, 1531, 1930, 2067, 2096, 2294, 2395, `2437`, 
+
+### Docket 2437
+
+#### [2437. 84. ]
+> ects \(ChannelAdvisor may also provide a quote for a Company `press release` if requested, and will list Company as a “supported marketp
+
+#### [2437. 83. ]
+> or agrees to: \(i\) promote Company in a mutually agreed-upon `press release` and marketing campaigns to both existing Clients and prospe
+
+#### [2437. 82. ]
+> yond Inc., at the same Company delivery address above. 
+> 
+> 7.6 `Press Release`. 
+> 
+> Neither party shall make any public announcement or other
 
 ### Docket 2395
 

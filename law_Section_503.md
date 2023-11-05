@@ -3,9 +3,392 @@
 
 [Back to main Index](README.md)
 
-Total hits: `406`
+Total hits: `473`
 
-Dockets hit: 6, 10, 11, 18, 22, 25, 28, 29, 35, 41, 69, 71, 76, 77, 78, 92, 93, 97, 134, 135, 136, 137, 138, 141, 193, 274, 286, 295, 326, 338, 379, 383, 388, 401, 415, 416, 422, 446, 462, 493, 569, 584, 588, 609, 613, 695, 708, 716, 718, 729, 745, 760, 772, 786, 788, 791, 877, 890, 892, 893, 957, 959, 969, 1016, 1027, 1075, 1102, 1117, 1141, 1155, 1161, 1170, 1187, 1193, 1207, 1407, 1429, 1431, 1435, 1437, 1438, 1445, 1472, 1511, 1514, 1592, 1687, 1688, 1690, 1691, 1692, 1712, 1713, 1832, 1879, 1904, 2100, 2134, 2136, 2141, 2160, 2162, 2172, 2182, 2186, `2309`, `2395`, `2397`, `2401`, 
+Dockets hit: 6, 10, 11, 18, 22, 25, 28, 29, 35, 41, 69, 71, 76, 77, 78, 92, 93, 97, 134, 135, 136, 137, 138, 141, 193, 274, 286, 295, 326, 338, 379, 383, 388, 401, 415, 416, 422, 446, 462, 493, 569, 584, 588, 609, 613, 695, 708, 716, 718, 729, 745, 760, 772, 786, 788, 791, 877, 890, 892, 893, 957, 959, 969, 1016, 1027, 1075, 1102, 1117, 1141, 1155, 1161, 1170, 1187, 1193, 1207, 1407, 1429, 1431, 1435, 1437, 1438, 1445, 1472, 1511, 1514, 1592, 1687, 1688, 1690, 1691, 1692, 1712, 1713, 1832, 1879, 1904, 2100, 2134, 2136, 2141, 2160, 2162, 2172, 2182, 2186, 2309, 2395, 2397, 2401, `2431`, `2433`, `2437`, `2439`, `2441`, `2443`, `2452`, `2456`, `2457`, `2458`, `2459`, `2460`, `2461`, `2470`, 
+
+#### [2470. 473. (OCR img_0026)]
+> .c4 Ia 503\(B\) AND SORUYIG OF A KIND ENTITLED TO PRIORITY To `SECTION 503`\(B\)\(9jOF THE BANKRUPTCY CODE SHOULd NOT BE USED FOR CLAIMS P
+
+#### [2470. 472. (OCR img_0026)]
+> con as an admlnistrative Indicate uanoto 503\(6\)4 othor than `section 503`\(619\} or 507la\)2\) cAafach claim? the estates purse clalm If
+
+### Docket 2470
+
+#### [2470. 471. (OCR img_0008)]
+> .c4 Ia 503\(B\) AND SORUYIG OF A KIND ENTITLED TO PRIORITY To `SECTION 503`\(B\)\(9jOF THE BANKRUPTCY CODE SHOULd NOT BE USED FOR CLAIMS P
+
+#### [2470. 470. (OCR img_0008)]
+> con as an admlnistrative Indicate uanoto 503\(6\)4 othor than `section 503`\(619\} or 507la\)2\) cAafach claim? the estates purse clalm If
+
+### Docket 2461
+
+#### [2461. 469. ]
+>  shall have an administrative expense claim under 11 U.S.C. `§ 503`\(b\) in the amount of \$15,333.47; and it is further
+> 
+>  ORDERED,
+
+### Docket 2460
+
+#### [2460. 468. ]
+> m entitled to administrative priority pursuant to
+> 
+> 11 U.S.C. `§ 503`\(b\)\(9\)?
+> 
+> ✔ No
+> 
+>  Yes. Indicate the amount of your claim arisi
+
+#### [2460. 467. ]
+> C. § 503\(b\)\(9\)\). Make such a request according to 11 U.S.C. `§ 503`. 
+> 
+> Filers must leave out or redact information that is entit
+
+#### [2460. 466. ]
+> se \(other than a claim entitled to priority under 11 U.S.C. `§ 503`\(b\)\(9\)\). Make such a request according to 11 U.S.C. § 503. 
+> 
+
+
+#### [2460. 465. ]
+> ary costs and expenses of preserving the estate.” 11 U.S.C. `§ 503`\(b\)\(1\)\(A\). To qualify as an administrative expense under sec
+
+#### [2460. 464. ]
+> e claim \(the “Administrative Claim”\), pursuant to 11 U.S.C. `§ 503`\(a\), for the value of licensing fees owing by the abovecapti
+
+#### [2460. 463. ]
+> 503\(b\)\(1\)\(A\). To qualify as an administrative expense under `section 503`\(b\)\(1\)\(A\), a claimant must demonstrate that the expense aris
+
+#### [2460. 462. ]
+> ion obligations that may have accrued under the Agreement. 
+> 
+> `Section 503`\(b\) of the Bankruptcy Code provides that, upon the request o
+
+### Docket 2459
+
+#### [2459. 461. ]
+>  Code adds that administrative expense claims allowed under `section 503`\(b\) of the Bankruptcy Code will be given high priority.
+> 
+> Base
+
+#### [2459. 460. ]
+>  or services to the debtor-in-possession … the purposes of \[`section 503`\] plainly require that their claims be afforded priority.” S
+
+#### [2459. 459. ]
+> es regardless of section 503\(b\)\(1\)\(A\) limitations.
+> 
+> Further, `section 503`\(b\)\(1\)\(A\) of the Bankruptcy Code affords 
+> 
+> administrative pri
+
+#### [2459. 458. ]
+> se must be allowed as administrative expenses regardless of `section 503`\(b\)\(1\)\(A\) limitations.
+> 
+> Further, section 503\(b\)\(1\)\(A\) of the
+
+#### [2459. 457. ]
+> y, until such lease is assumed or rejected, notwithstanding `section 503`\(b\)\(1\) of this title.5
+> 
+> 3 
+> 
+> 11 U.S.C. § 365\(d\)\(3\). 
+> 
+> The plain
+
+### Docket 2458
+
+#### [2458. 456. ]
+> F A KIND ENTITLED TO PRIORITY IN ACCORDANCE WITH 11 U.S.C. §`§ 503`\(B\) AND 507\(A\)\(2\); PROVIDED, HOWEVER; THIS SECTION SHOULD NO
+
+#### [2458. 455. ]
+> m entitled to administrative priority pursuant to
+> 
+> 11 U.S.C. `§ 503`\(b\)\(9\)?
+> 
+> ✔ No
+> 
+>  Yes. Indicate the amount of your claim arisi
+
+#### [2458. 454. ]
+> F A KIND ENTITLED TO PRIORITY IN ACCORDANCE WITH 11 U.S.C. §`§ 503`\(B\) AND 507\(A\)\(2\); PROVIDED, HOWEVER; THIS SECTION SHOULD NO
+
+#### [2458. 453. ]
+> m entitled to administrative priority pursuant to
+> 
+> 11 U.S.C. `§ 503`\(b\)\(9\)?
+> 
+> ✔ No
+> 
+>  Yes. Indicate the amount of your claim arisi
+
+#### [2458. 452. ]
+> nt is entitled to administrative priority without regard to `§ 503`\(b\)\(1\)\); In re Liberty Outdoors, Inc., 205 B.R. 414, 417 \(Ba
+
+#### [2458. 451. ]
+> VER; THIS SECTION SHOULD NOT BE USED FOR CLAIMS PURSUANT TO `SECTION 503`\(B\)\(9\) OF THE BANKRUPTCY CODE.
+> 
+> Part 3: 
+> 
+> Sign Below 
+> 
+> The pers
+
+#### [2458. 450. ]
+> f expense claim? the estates pursuant to 503\(b\), other than `section 503`\(b\)\(9\), or 507\(a\)\(2\). Attach documentation supporting such c
+
+#### [2458. 449. ]
+> VER; THIS SECTION SHOULD NOT BE USED FOR CLAIMS PURSUANT TO `SECTION 503`\(B\)\(9\) OF THE BANKRUPTCY CODE.
+> 
+> Part 3: 
+> 
+> Sign Below 
+> 
+> The pers
+
+#### [2458. 448. ]
+> f expense claim? the estates pursuant to 503\(b\), other than `section 503`\(b\)\(9\), or 507\(a\)\(2\). Attach documentation supporting such c
+
+#### [2458. 447. ]
+> f whether the expenses benefited or preserved the estate\). 
+> 
+> `Section 503`\(b\)\(1\)\(A\) of the Bankruptcy Code also affords administrative
+
+#### [2458. 446. ]
+> se must be allowed as administrative expenses regardless of `section 503`\(b\)\(1\)\(A\) limitations. See, e.g., In re Simbaki, Ltd., Case
+
+### Docket 2457
+
+#### [2457. 445. ]
+>  Code adds that administrative expense claims allowed under `section 503`\(b\) of the Bankruptcy Code will be given high priority.
+> 
+> Base
+
+#### [2457. 444. ]
+>  or services to the debtor-in-possession … the purposes of \[`section 503`\] plainly require that their claims be afforded priority.” S
+
+#### [2457. 443. ]
+> es regardless of section 503\(b\)\(1\)\(A\) limitations.
+> 
+> Further, `section 503`\(b\)\(1\)\(A\) of the Bankruptcy Code affords 
+> 
+> administrative pri
+
+#### [2457. 442. ]
+> se must be allowed as administrative expenses regardless of `section 503`\(b\)\(1\)\(A\) limitations.
+> 
+> Further, section 503\(b\)\(1\)\(A\) of the
+
+#### [2457. 441. ]
+> y, until such lease is assumed or rejected, notwithstanding `section 503`\(b\)\(1\) of this title.5
+> 
+> 11 U.S.C. § 365\(d\)\(3\). 
+> 
+> The plain lan
+
+### Docket 2456
+
+#### [2456. 440. ]
+>  Code adds that administrative expense claims allowed under `section 503`\(b\) of the Bankruptcy Code will be given high priority.
+> 
+> Base
+
+#### [2456. 439. ]
+>  or services to the debtor-in-possession … the purposes of \[`section 503`\] plainly require that their claims be afforded priority.” S
+
+#### [2456. 438. ]
+> es regardless of section 503\(b\)\(1\)\(A\) limitations.
+> 
+> Further, `section 503`\(b\)\(1\)\(A\) of the Bankruptcy Code affords 
+> 
+> administrative pri
+
+#### [2456. 437. ]
+> se must be allowed as administrative expenses regardless of `section 503`\(b\)\(1\)\(A\) limitations.
+> 
+> Further, section 503\(b\)\(1\)\(A\) of the
+
+#### [2456. 436. ]
+> y, until such lease is assumed or rejected, notwithstanding `section 503`\(b\)\(1\) of this title.4
+> 
+> 11 U.S.C. § 365\(d\)\(3\). 
+> 
+> The plain lan
+
+#### [2452. 435. (OCR img_0021)]
+> VER; THIS SECTION SHOULD NOT BE USED FOR CLAIMS PURSUANT TO `SECTION 503`\(B\)\(9\) OF THE BANKRUPTCY CODE Part 3: Sign Below The person
+
+### Docket 2452
+
+#### [2452. 434. (OCR img_0013)]
+> VER; THIS SECTION SHOULD NOT BE USED FOR CLAIMS PURSUANT TO `SECTION 503`\(B\)\(9\) OF THE BANKRUPTCY CODE Part 3: Sign Below The person
+
+### Docket 2443
+
+#### [2443. 433. ]
+>  Code adds that administrative expense claims allowed under `section 503`\(b\) of the Bankruptcy Code will be given high priority.
+> 
+> Base
+
+#### [2443. 432. ]
+>  or services to the debtor-in-possession … the purposes of \[`section 503`\] plainly require that their claims be afforded priority.” S
+
+#### [2443. 431. ]
+> es regardless of section 503\(b\)\(1\)\(A\) limitations.
+> 
+> Further, `Section 503`\(b\)\(1\)\(A\) of the Bankruptcy Code affords 
+> 
+> administrative pri
+
+#### [2443. 430. ]
+> se must be allowed as administrative expenses regardless of `section 503`\(b\)\(1\)\(A\) limitations.
+> 
+> Further, Section 503\(b\)\(1\)\(A\) of the
+
+#### [2443. 429. ]
+> y, until such lease is assumed or rejected, notwithstanding `section 503`\(b\)\(1\) of this title.5
+> 
+> 11 U.S.C. § 365\(d\)\(3\). 
+> 
+> The plain lan
+
+### Docket 2441
+
+#### [2441. 428. ]
+> hat should be allowed as administrative expenses, 11 U.S.C. `§503`\(b\)\(1\)\(A\), and should receive the highest priority in paymen
+
+#### [2441. 427. ]
+> istrative Expense Request is brought pursuant to 11 U.S.C. §`§503`\(b\)\(1\)\(A\) and 507\(a\)\(2\), and is based on the matters set for
+
+#### [2441. 426. ]
+> , 532-33 \(3d Cir. 1999\). The principal purpose of 11 U.S.C. `§ 503` is to induce entities to do business with a debtor after ba
+
+#### [2441. 425. ]
+> nc., 259 B.R. 46, 50 \(Bankr. D. Del. 2001\) citing 11 U.S.C. `§ 503`\(b\). In the Third Circuit, the phrase "actual" and "necessar
+
+### Docket 2439
+
+#### [2439. 424. ]
+>  Code adds that administrative expense claims allowed under `section 503`\(b\) of the Bankruptcy Code will be given high priority.
+> 
+> Base
+
+#### [2439. 423. ]
+>  or services to the debtor-in-possession … the purposes of \[`section 503`\] plainly require that their claims be afforded priority.” S
+
+#### [2439. 422. ]
+> es regardless of section 503\(b\)\(1\)\(A\) limitations.
+> 
+> Further, `Section 503`\(b\)\(1\)\(A\) of the Bankruptcy Code affords 
+> 
+> administrative pri
+
+#### [2439. 421. ]
+> se must be allowed as administrative expenses regardless of `section 503`\(b\)\(1\)\(A\) limitations.
+> 
+> Further, Section 503\(b\)\(1\)\(A\) of the
+
+#### [2439. 420. ]
+> y, until such lease is assumed or rejected, notwithstanding `section 503`\(b\)\(1\) of this title.5
+> 
+> 11 U.S.C. § 365\(d\)\(3\). 
+> 
+> The plain lan
+
+### Docket 2437
+
+#### [2437. 419. ]
+> s that administrative expense claims that are allowed under `§ 503`\(b\) of the Bankruptcy Code have first priority. 11 U.S.C. §
+
+#### [2437. 418. ]
+> endered after the commencement of the case . . ." 11 U.S.C. `§ 503`\(b\)\(1\)\(A\). Section 507\(a\) of the Bankruptcy Code provides th
+
+#### [2437. 417. ]
+>  
+> 
+> The statutory basis for the relief requested is 11 U.S.C. `§ 503`\(b\). 
+> 
+> BACKGROUND 
+> 
+> On April 23, 2023 \(the “Petition Date”\), D
+
+#### [2437. 416. ]
+> ative Expense Claim \(the “Motion”\) pursuant to § 503\(a\) and `§ 503`\(b\)\(1\)\(A\) of the United States Bankruptcy Code, 11 U.S.C. Se
+
+#### [2437. 415. ]
+> of 
+> 
+> Administrative Expense Claim \(the “Motion”\) pursuant to `§ 503`\(a\) and § 503\(b\)\(1\)\(A\) of the United States Bankruptcy Code,
+
+#### [2437. 414. ]
+> ted amounts due under the Agreement. 
+> 
+>  
+> 
+> 3
+> 
+> BASIS FOR RELIEF 
+> 
+> `Section 503`\(b\) of the Bankruptcy Code provides in pertinent part that a
+
+### Docket 2433
+
+#### [2433. 413. ]
+>  shall have an administrative expense claim under 11 U.S.C. `§ 503`\(b\) in the amount of \$15,333.47; and it is further
+> 
+>  ORDERED,
+
+### Docket 2431
+
+#### [2431. 412. ]
+> MENT OF 
+> 
+> ADMINISTRATIVE EXPENSE CLAIM PURSUANT TO 11 U.S.C. `§ 503`\(b\)\(1\) 
+> 
+>  
+> 
+>  
+> 
+>  /s/ Jeffrey Kurtzman 
+> 
+>  Jeffrey Kurtzman 
+> 
+>  39689
+
+#### [2431. 411. ]
+> nt is Entitled to an Administrative Expense Under 11 U.S.C. `§ 503`\(b\)\(1\)\(a\). 
+> 
+>  
+> 
+> In addition to allowance of Debtor’s obligatio
+
+#### [2431. 410. ]
+> MENT OF 
+> 
+> ADMINISTRATIVE EXPENSE CLAIM PURSUANT TO 11 U.S.C. `§ 503`\(b\)\(1\) 
+> 
+>  
+> 
+>  TO: HONORABLE VINCENT F. PAPALIA, 
+> 
+>  UNITED STATES
+
+#### [2431. 409. ]
+> MENT OF 
+> 
+> ADMINISTRATIVE EXPENSE CLAIM PURSUANT TO 11 U.S.C. `§ 503`\(b\)\(1\) 
+> 
+>  
+> 
+> NOTICE OF OPPORTUNITY TO OBJECT AND HEARING: Pursu
+
+#### [2431. 408. ]
+>  or preclude analysis of commercial lease obligations under `Section 503`\). The Debtor’s occupancy must confer an actual benefit to t
+
+#### [2431. 407. ]
+>  the taxes are entitled to 
+> 
+> 7
+> 
+> administrative priority under `Section 503`\(b\)\(1\) as they constitute “actual, necessary costs and expen
 
 ### Docket 2401
 

@@ -3,9 +3,167 @@
 
 [Back to main Index](README.md)
 
-Total hits: `710`
+Total hits: `728`
 
-Dockets hit: 123, 154, 202, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 249, 250, 251, 252, 253, 254, 255, 256, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 329, 330, 331, 332, 333, 393, 394, 395, 396, 397, 398, 399, 400, 403, 411, 412, 414, 468, 469, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 608, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 666, 667, 668, 681, 682, 684, 685, 687, 688, 689, 690, 736, 737, 739, 759, 761, 762, 764, 765, 767, 768, 902, 904, 958, 959, 960, 961, 962, 971, 972, 973, 974, 975, 976, 978, 979, 980, 981, 1122, 1137, 1138, 1139, 1140, 1141, 1142, 1163, 1164, 1165, 1166, 1167, 1168, 1169, 1171, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263, 1264, 1265, 1266, 1267, 1268, 1269, 1270, 1271, 1335, 1336, 1337, 1367, 1369, 1370, 1372, 1448, 1449, 1450, 1451, 1455, 1456, 1457, 1458, 1459, 1460, 1461, 1462, 1463, 1464, 1465, 1466, 1467, 1468, 1540, 1541, 1542, 1543, 1544, 1545, 1546, 1547, 1548, 1549, 1550, 1551, 1552, 1584, 1585, 1586, 1587, 1588, 1591, 1593, 1594, 1619, 1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635, 1636, 1637, 1638, 1639, 1640, 1645, 1646, 1647, 1648, 1649, 1650, 1651, 1652, 1653, 1654, 1655, 1656, 1657, 1658, 1659, 1660, 1661, 1662, 1663, 1664, 1665, 1717, 1718, 1719, 1720, 1721, 1722, 1731, 1732, 1734, 1736, 1737, 1738, 1739, 1740, 1741, 1742, 1743, 1744, 1832, 1837, 1838, 1839, 1840, 1841, 1843, 1844, 1845, 1846, 1847, 1868, 1869, 1870, 1871, 1872, 1887, 1889, 1891, 1903, 1912, 1937, 1938, 1939, 1940, 1941, 1942, 1943, 1944, 1945, 1946, 1947, 1949, 2043, 2044, 2045, 2046, 2047, 2048, 2049, 2050, 2097, 2098, 2103, 2104, 2105, 2106, 2108, 2117, 2118, 2119, 2135, 2137, 2138, 2152, 2153, 2154, 2183, 2184, 2186, 2187, 2282, 2283, 2284, 2285, `2286`, `2287`, `2288`, `2300`, `2301`, `2389`, `2391`, `2392`, `2417`, `2421`, `2422`, `2423`, `2424`, 
+Dockets hit: 123, 154, 202, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 249, 250, 251, 252, 253, 254, 255, 256, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 329, 330, 331, 332, 333, 393, 394, 395, 396, 397, 398, 399, 400, 403, 411, 412, 414, 468, 469, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 608, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 666, 667, 668, 681, 682, 684, 685, 687, 688, 689, 690, 736, 737, 739, 759, 761, 762, 764, 765, 767, 768, 902, 904, 958, 959, 960, 961, 962, 971, 972, 973, 974, 975, 976, 978, 979, 980, 981, 1122, 1137, 1138, 1139, 1140, 1141, 1142, 1163, 1164, 1165, 1166, 1167, 1168, 1169, 1171, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263, 1264, 1265, 1266, 1267, 1268, 1269, 1270, 1271, 1335, 1336, 1337, 1367, 1369, 1370, 1372, 1448, 1449, 1450, 1451, 1455, 1456, 1457, 1458, 1459, 1460, 1461, 1462, 1463, 1464, 1465, 1466, 1467, 1468, 1540, 1541, 1542, 1543, 1544, 1545, 1546, 1547, 1548, 1549, 1550, 1551, 1552, 1584, 1585, 1586, 1587, 1588, 1591, 1593, 1594, 1619, 1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635, 1636, 1637, 1638, 1639, 1640, 1645, 1646, 1647, 1648, 1649, 1650, 1651, 1652, 1653, 1654, 1655, 1656, 1657, 1658, 1659, 1660, 1661, 1662, 1663, 1664, 1665, 1717, 1718, 1719, 1720, 1721, 1722, 1731, 1732, 1734, 1736, 1737, 1738, 1739, 1740, 1741, 1742, 1743, 1744, 1832, 1837, 1838, 1839, 1840, 1841, 1843, 1844, 1845, 1846, 1847, 1868, 1869, 1870, 1871, 1872, 1887, 1889, 1891, 1903, 1912, 1937, 1938, 1939, 1940, 1941, 1942, 1943, 1944, 1945, 1946, 1947, 1949, 2043, 2044, 2045, 2046, 2047, 2048, 2049, 2050, 2097, 2098, 2103, 2104, 2105, 2106, 2108, 2117, 2118, 2119, 2135, 2137, 2138, 2152, 2153, 2154, 2183, 2184, 2186, 2187, 2282, 2283, 2284, 2285, 2286, 2287, 2288, 2300, 2301, 2389, 2391, 2392, 2417, 2421, 2422, 2423, 2424, `2435`, `2448`, `2461`, `2462`, `2463`, `2464`, `2465`, `2466`, `2472`, 
+
+### Docket 2472
+
+#### [2472. 728. ]
+> en lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Plaintiff `Judith Cohen` lee@sfclasslaw.com 
+> 
+> David M Stauss on behalf of Creditor CB
+
+#### [2472. 727. ]
+> rodriguez@loudoun.go
+> 
+> v 
+> 
+> Lee Squitieri on behalf of Creditor `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Plaintiff Ju
+
+### Docket 2466
+
+#### [2466. 726. ]
+> hen lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Leslie Carol Heilman on behalf of Credi
+
+#### [2466. 725. ]
+> com lthomas@onellp.com
+> 
+> Lee Squitieri on behalf of Plaintiff `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor Jud
+
+### Docket 2465
+
+#### [2465. 724. ]
+> hen lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Leslie Carol Heilman on behalf of Credi
+
+#### [2465. 723. ]
+> com lthomas@onellp.com
+> 
+> Lee Squitieri on behalf of Plaintiff `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor Jud
+
+### Docket 2464
+
+#### [2464. 722. ]
+> hen lee@sfclasslaw.com 
+> 
+> Lee Squitieri
+> 
+> on behalf of Creditor `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Page 12 of 25
+> 
+> Total Noticed: 1
+> 
+> Leslie C
+
+#### [2464. 721. ]
+> com lthomas@onellp.com
+> 
+> Lee Squitieri on behalf of Plaintiff `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Lee Squitieri
+> 
+> on behalf of Creditor Jud
+
+### Docket 2463
+
+#### [2463. 720. ]
+> hen lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Leslie Carol Heilman on behalf of Credi
+
+#### [2463. 719. ]
+> com lthomas@onellp.com
+> 
+> Lee Squitieri on behalf of Plaintiff `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor Jud
+
+### Docket 2462
+
+#### [2462. 718. ]
+> hen lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Leslie Carol Heilman on behalf of Credi
+
+#### [2462. 717. ]
+> com lthomas@onellp.com
+> 
+> Lee Squitieri on behalf of Plaintiff `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor Jud
+
+### Docket 2461
+
+#### [2461. 716. ]
+> hen lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Leslie Carol Heilman on behalf of Credi
+
+#### [2461. 715. ]
+> com lthomas@onellp.com
+> 
+> Lee Squitieri on behalf of Plaintiff `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor Jud
+
+### Docket 2448
+
+#### [2448. 714. ]
+> en lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Plaintiff `Judith Cohen` lee@sfclasslaw.com 
+> 
+> David M Stauss on behalf of Creditor CB
+
+#### [2448. 713. ]
+> se 
+> 
+> Mode of Service 
+> 
+> v 
+> 
+> Lee Squitieri on behalf of Creditor `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Plaintiff Ju
+
+### Docket 2435
+
+#### [2435. 712. ]
+> hen lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Leslie Carol Heilman on behalf of Credi
+
+#### [2435. 711. ]
+> com lthomas@onellp.com
+> 
+> Lee Squitieri on behalf of Plaintiff `Judith Cohen` lee@sfclasslaw.com 
+> 
+> Lee Squitieri on behalf of Creditor Jud
 
 ### Docket 2424
 
