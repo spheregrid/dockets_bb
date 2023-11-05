@@ -1,0 +1,288 @@
+
+## com: Vinson & Elkins
+
+[Back to main Index](README.md)
+
+Total hits: `12`
+
+Dockets hit: 604, 1316, 1912, 2135, 
+
+### Docket 2135
+
+#### [2135. 12. ]
+> 5 TEXAS ST STE 4700
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77002‐2946
+> 
+> 16668477
+> 
+> 12731563
+> 
+> `VINSON & ELKINS` LLP
+> 
+> P.O. BOX 301019
+> 
+> DALLAS
+> 
+> TX
+> 
+> 75303
+> 
+> 16654710
+> 
+> 12743931
+> 
+> VINTA
+
+#### [2135. 11. ]
+> ELLA
+> 
+> P.O. BOX 1264
+> 
+> HIGHLAND PARK
+> 
+> IL
+> 
+> 60035
+> 
+> 16668478
+> 
+> 12731564
+> 
+> `VINSON & ELKINS` LLP
+> 
+> 845 TEXAS ST STE 4700
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77002‐2946
+> 
+> 16668477
+> 
+> 12
+
+#### [2135. 10. ]
+>  PMB 30427
+> 
+> MIAMI
+> 
+> FL
+> 
+> 33102
+> 
+> 16680612
+> 
+> 12739908
+> 
+> RC VENTURES LLC
+> 
+> `VINSON & ELKINS`
+> 
+> JUSTIN C. BECK
+> 
+> 2001 ROSS AVENUE, SUITE 3900
+> 
+> DALLAS
+> 
+> TX
+> 
+> 75201
+
+### Docket 1912
+
+#### [1912. 9. ]
+> 27 MIAMI FL 33102 First Class Mail
+> 
+> 12883417 RC VENTURES LLC `VINSON & ELKINS` Justin C. Beck 2001 Ross Avenue, Suite 3900 Dallas TX 75201
+
+### Docket 1316
+
+#### [1316. 8. ]
+> 27
+> 
+> MIAMI
+> 
+> FL
+> 
+> 33102
+> 
+> FIRST CLASS MAIL
+> 
+> 12883417
+> 
+> RC VENTURES LLC
+> 
+> `VINSON & ELKINS`
+> 
+> JUSTIN C. BECK
+> 
+> 2001 ROSS AVENUE, SUITE 
+> 
+> 3900
+> 
+> DALLAS
+> 
+> TX
+> 
+> 7520
+
+### Docket 604
+
+#### [604. 7. ]
+> CAS, 32ND FLOOR
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10036
+> 
+> 12759035
+> 
+> RC VENTURES LLC 
+> 
+> `VINSON & ELKINS` LLP
+> 
+> MARISA ANTONELLI
+> 
+> 1114 AVENUE OF AMERICAS, 32ND FLOOR
+> 
+> NE
+
+#### [604. 6. ]
+> IA AVENUE, NW
+> 
+> WASHINGTON
+> 
+> DC
+> 
+> 20037
+> 
+> 12735430
+> 
+> RC VENTURES LLC 
+> 
+> `VINSON & ELKINS` LLP
+> 
+> EPHRAIM WERNICK; CLIFFORD THAU
+> 
+> DAVID ADAM HOFFMAN; MARI
+
+#### [604. 5. ]
+> NUE OF AMERICAS
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10036
+> 
+> 12739909
+> 
+> RC VENTURES LLC 
+> 
+> `VINSON & ELKINS` LLP
+> 
+> EPHRAIM WERNICK
+> 
+> 2200 PENNSYLVANIA AVENUE, NW
+> 
+> WASHINGTON
+
+#### [604. 4. ]
+> CAS, 32ND FLOOR
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10036
+> 
+> 12739907
+> 
+> RC VENTURES LLC 
+> 
+> `VINSON & ELKINS` LLP
+> 
+> DAVID ADAM HOFFMAN ;CLIFFORD 
+> 
+> THAU
+> 
+> MARISA ANTONELLI
+> 
+> 111
+
+#### [604. 3. ]
+> NUE OF AMERICAS
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10036
+> 
+> 12735449
+> 
+> RC VENTURES LLC 
+> 
+> `VINSON & ELKINS` LLP
+> 
+> CLIFFORD LOUIS THAU; DAVID ADAM 
+> 
+> HOFFMAN
+> 
+> MARISA ANTONEL
+
+#### [604. 2. ]
+> VENUE, SUITE 3900
+> 
+> DALLAS
+> 
+> TX
+> 
+> 75201
+> 
+> 12759034
+> 
+> RC VENTURES LLC 
+> 
+> `VINSON & ELKINS` LLP
+> 
+> CLIFFORD LOUIS THAU
+> 
+> 1114 AVENUE OF AMERICAS
+> 
+> NEW YORK
+> 
+> NY
+
+#### [604. 1. ]
+> ENUE 22ND FLOOR
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10017
+> 
+> 12739908
+> 
+> RC VENTURES LLC 
+> 
+> `VINSON & ELKINS`
+> 
+> JUSTIN C. BECK
+> 
+> 2001 ROSS AVENUE, SUITE 3900
+> 
+> DALLAS
+> 
+> TX
+> 
+> 75201

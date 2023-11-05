@@ -1,0 +1,1073 @@
+
+## fin: Credit Default Swaps | CDS
+
+[Back to main Index](README.md)
+
+Total hits: `57`
+
+Dockets hit: 390, 604, 707, 892, 2135, 
+
+### Docket 2135
+
+#### [2135. 57. ]
+> C CAPITAL MARKETS \(0235\)
+> 
+> EMAIL ON FILE
+> 
+> SCOTIA CAPITAL INC. /`CDS` \(5011/4812\)
+> 
+> EMAIL ON FILE
+> 
+> SEI PRIVATE \(2039/2663\)
+> 
+> EMAIL ON
+
+#### [2135. 56. ]
+> IONAL FINANCIAL SERVICES LLC \(0226\)
+> 
+> EMAIL ON FILE
+> 
+> NBCN Inc./`CDS` \(5008\)
+> 
+> EMAIL ON FILE
+> 
+> NOMURA SECURITIES \(0180\)
+> 
+> EMAIL ON FILE
+
+#### [2135. 55. ]
+>  ON FILE
+> 
+> BROWN BROTHERS HARRIMAN & CO. \(0010\)
+> 
+> EMAIL ON FILE
+> 
+> `CDS` \(4800/5099\)
+> 
+> EMAIL ON FILE
+> 
+> CHARLES SCHWAB & CO., INC. \(0164\)
+
+#### [2135. 54. ]
+> 005 NORTH AMERITRADE PLACE
+> 
+> BELLEVUE
+> 
+> NE 
+> 
+> 68005
+> 
+> TD WATERHOUSE `CDS` 5036
+> 
+> ATTN REORG MANAGER
+> 
+> 77 BLOOR STREET WEST 3RD FLOOR
+> 
+> TORO
+
+#### [2135. 53. ]
+>  E WISCONSIN AVENUE
+> 
+> MILWAUKEE 
+> 
+> WI 
+> 
+> 53202
+> 
+> SCOTIA CAPITAL INC `CDS` 5011
+> 
+> ATTN NORMITA RAMIREZ CORP ACT DEPT
+> 
+> 40 KING STREET WEST
+
+#### [2135. 52. ]
+> MGR
+> 
+> 60 SOUTH 6TH STREET
+> 
+> MINNEAPOLIS 
+> 
+> MN 
+> 
+> 55402
+> 
+> RBC DOMINION `CDS` 5002
+> 
+> ATTN KAREN OLIVERES OR REORG MGR
+> 
+> 200 BAY STREET 6TH FL
+
+#### [2135. 51. ]
+> WAY TOWER 2 4TH FL
+> 
+> ST PETERSBURG
+> 
+> FL
+> 
+> 33716
+> 
+> RAYMOND JAMES LTD `CDS` 5076
+> 
+> ATTN REORG MGR
+> 
+> 2100 – 925 WEST
+> 
+> GEORGIA STREET
+> 
+> VANCOUVE
+
+#### [2135. 50. ]
+> Jackson Blvd Suite 1531A
+> 
+> CHICAGO
+> 
+> IL
+> 
+> 60604
+> 
+> PI FINANCIAL CORP `CDS` 5075
+> 
+> ATTN ROB MCNEIL OR REORG MGR
+> 
+> 666 BURRARD ST
+> 
+> SUITE 1900
+
+#### [2135. 49. ]
+> ADDRESS 2
+> 
+> ADDRESS 3
+> 
+> CITY
+> 
+> STATE
+> 
+> POSTAL CODE
+> 
+> COUNTRY
+> 
+> NBCN INC `CDS` 5008
+> 
+> ATTN BENOIT HENAULT OR REORG MGR
+> 
+> 1010 RUE DE LA GAUCHE
+
+#### [2135. 48. ]
+> T
+> 
+> WEST SUITE 4600
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5L 1G2
+> 
+> CA
+> 
+> MANULIFE SECURITIES `CDS` 5047
+> 
+> ATTN REORG MGR
+> 
+> 85 RICHMOND STREET WEST
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5H
+
+#### [2135. 47. ]
+>  SUITE 2000
+> 
+> VANCOUVER
+> 
+> BC 
+> 
+> V6C 3A6
+> 
+> CA
+> 
+> HAYWOOD SECURITIES INC `CDS` 5058
+> 
+> ATTN M DRYHURST OR REORG MGR
+> 
+> 20TH FLOOR COMMERCE PLACE
+
+#### [2135. 46. ]
+> DEPARTMENT
+> 
+> JERSEY CITY
+> 
+> NJ
+> 
+> 07302‐0000
+> 
+> HAYWOOD SECURITIES INC `CDS` 5058
+> 
+> ATTN TRACY COLLEGE OR REORG MGR
+> 
+> 400 BURRARD STREET SUI
+
+#### [2135. 45. ]
+> TION
+> 
+> 12555 MANCHESTER ROAD
+> 
+> ST LOUIS 
+> 
+> MO 
+> 
+> 63131
+> 
+> EDWARD JONES `CDS` 5012
+> 
+> ATTN Dennis New OR REORG MGR
+> 
+> 12555 Manchester Road
+> 
+> ST
+
+#### [2135. 44. ]
+> CENTER
+> 
+> SUITE 800
+> 
+> OMAHA 
+> 
+> NE 
+> 
+> 68102
+> 
+> CREDENTIAL SECURITIES INC `CDS` 5083
+> 
+> ATTN REORG DEPARTMENT
+> 
+> 700 1111 WEST GEORGIA ST
+> 
+> VANCOUV
+
+#### [2135. 43. ]
+> LINCOLN DRIVE
+> 
+> PHOENIX 
+> 
+> AZ
+> 
+> 85016‐1217
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN JERRY NICASTRO OR REORG MGR
+> 
+> 161 BAY STREET
+> 
+> 10TH F
+
+#### [2135. 42. ]
+> PACIFIC CENTR 2200 609 GRANVILLE ST
+> 
+> VANCOUVER
+> 
+> BC
+> 
+> V7Y 1H2
+> 
+> CA
+> 
+> `CDS` CLEARING AND DEPOSITORY 5099
+> 
+> ATTN LORETTA VERELLI OR REORG
+
+#### [2135. 41. ]
+> sterbrook Blvd 2nd Fl
+> 
+> Wayne
+> 
+> PA
+> 
+> 19087
+> 
+> CANACCORD GENUITY CORP `CDS` 5046
+> 
+> ATTN ALMA GOCO OR REORG MGR
+> 
+> PACIFIC CENTR 2200 609 GRA
+
+#### [2135. 40. ]
+> GE ST
+> 
+> SUITE 506
+> 
+> TORONTO
+> 
+> ON
+> 
+> M2P 2B5
+> 
+> CA
+> 
+> BMO NESBITT BURNS INC `CDS` 5043
+> 
+> ATTN LOUISE TORANGEAU
+> 
+> 1 FIRST CANADIAN PLACE 13TH FL
+> 
+> T
+
+#### [2135. 39. ]
+> ENTH AVENUE
+> 
+> 16TH FLOOR
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10019
+> 
+> BBS SECURITIES INC `CDS` 5085
+> 
+> DEBORAH CARLYLE
+> 
+> 4100 YONGE ST
+> 
+> SUITE 506
+> 
+> TORONTO
+> 
+> ON
+> 
+> M2P
+
+#### [2135. 38. ]
+> 0 KING STREET WEST
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5H 1H1
+> 
+> CA
+> 
+> SCOTIA CAPITAL INC `CDS` 5011
+> 
+> ATN L NIE OR L DOMINGUES OR PXY MGR
+> 
+> 40 KING STREET WES
+
+#### [2135. 37. ]
+> OXY MGR
+> 
+> 545 5TH AVENUE
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10036
+> 
+> SCOTIA CAPITAL INC `CDS` 5011
+> 
+> ATTN NORMITA RAMIREZ CORP ACT DEPT
+> 
+> 40 KING STREET WEST
+
+#### [2135. 36. ]
+> ELLINGTON ST W 9TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 0C2
+> 
+> CA
+> 
+> RBC DOMINION `CDS` 5002
+> 
+> ATTN KAREN OLIVERES
+> 
+> 200 BAY STREET 6TH FLOOR
+> 
+> ROYAL BAN
+
+#### [2135. 35. ]
+> ZA
+> 
+> NORTH TOWER 6TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 2W7
+> 
+> CA
+> 
+> RBC DOMINION `CDS` 5002
+> 
+> ATTN SHAREHOLDER SERVICES
+> 
+> 180 WELLINGTON ST W 9TH FLOO
+
+#### [2135. 34. ]
+> R
+> 
+> 510 MARQUETTE AVE SOUTH
+> 
+> MINNEAPOLIS
+> 
+> MN
+> 
+> 55402
+> 
+> RBC DOMINION `CDS` 4801
+> 
+> ATTN PETER DRUMM OR PROXY MGR
+> 
+> 200 BAY ST ROYAL BK PLAZ
+
+#### [2135. 33. ]
+> ST W
+> 
+> 7TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 2W5
+> 
+> CA
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN R ROOPSINGH OR PROXY MGR
+> 
+> 22 FRONT ST 
+> 
+> TORONTO
+> 
+> ON
+> 
+
+
+#### [2135. 32. ]
+>  ATTN CORP ACT
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 2W5
+> 
+> CA
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN HENRY H LIANG
+> 
+> 22 FRONT ST W
+> 
+> 7TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+
+
+#### [2135. 31. ]
+> BAY ST 10TH FL
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 258
+> 
+> CA
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN REED JON
+> 
+> CANADIAN IMPERIAL BANK OF COMMERCE
+> 
+> 22 FR
+
+#### [2135. 30. ]
+> R PHXPEAK 01 1B571A
+> 
+> PHOENIX
+> 
+> AZ
+> 
+> 85016
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN NICASTRO JERRY OR PROXY MGR
+> 
+> 161 BAY ST 10TH FL
+> 
+> TO
+
+#### [2135. 29. ]
+> R STREET 25TH FLOOR
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10041
+> 
+> BMO NESBITT BURNS INC `CDS` 5043
+> 
+> ATTN PHUTHORN PENIKETT D FERNANDES
+> 
+> BMO FINANCIAL GROUP
+
+### Docket 892
+
+#### [892. 28. ]
+> 0 KING STREET WEST
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5H 1H1
+> 
+> CA
+> 
+> SCOTIA CAPITAL INC `CDS` 5011
+> 
+> ATN L NIE OR L DOMINGUES OR PXY MGR
+> 
+> 40 KING STREET WES
+
+#### [892. 27. ]
+>  MGR
+> 
+> 545 5TH AVENUE
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10036
+> 
+> US
+> 
+> SCOTIA CAPITAL INC `CDS` 5011
+> 
+> ATTN NORMITA RAMIREZ CORP ACT DEPT
+> 
+> 40 KING STREET WEST
+
+#### [892. 26. ]
+> ELLINGTON ST W 9TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 0C2
+> 
+> CA
+> 
+> RBC DOMINION `CDS` 5002
+> 
+> ATTN KAREN OLIVERES
+> 
+> 200 BAY STREET 6TH FLOOR
+> 
+> ROYAL BAN
+
+#### [892. 25. ]
+> ZA
+> 
+> NORTH TOWER 6TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 2W7
+> 
+> CA
+> 
+> RBC DOMINION `CDS` 5002
+> 
+> ATTN SHAREHOLDER SERVICES
+> 
+> 180 WELLINGTON ST W 9TH FLOO
+
+#### [892. 24. ]
+> 10 MARQUETTE AVE SOUTH
+> 
+> MINNEAPOLIS
+> 
+> MN
+> 
+> 55402
+> 
+> US
+> 
+> RBC DOMINION `CDS` 4801
+> 
+> ATTN PETER DRUMM OR PROXY MGR
+> 
+> 200 BAY ST ROYAL BK PLAZ
+
+#### [892. 23. ]
+> ST W
+> 
+> 7TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 2W5
+> 
+> CA
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN R ROOPSINGH OR PROXY MGR
+> 
+> 22 FRONT ST 
+> 
+> TORONTO
+> 
+> ON
+> 
+
+
+#### [892. 22. ]
+>  ATTN CORP ACT
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 2W5
+> 
+> CA
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN HENRY H LIANG
+> 
+> 22 FRONT ST W
+> 
+> 7TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+
+
+#### [892. 21. ]
+> BAY ST 10TH FL
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 258
+> 
+> CA
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN REED JON
+> 
+> CANADIAN IMPERIAL BANK OF COMMERCE
+> 
+> 22 FR
+
+#### [892. 20. ]
+> HXPEAK 01 1B571A
+> 
+> PHOENIX
+> 
+> AZ
+> 
+> 85016
+> 
+> US
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN NICASTRO JERRY OR PROXY MGR
+> 
+> 161 BAY ST 10TH FL
+> 
+> TO
+
+#### [892. 19. ]
+> 301 SIXTH AVENUE
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10019
+> 
+> US
+> 
+> BMO NESBITT BURNS INC `CDS` 5043
+> 
+> ATTN PHUTHORN PENIKETT D FERNANDES
+> 
+> BMO FINANCIAL GROUP
+
+### Docket 707
+
+#### [707. 18. ]
+>  FILE
+> 
+> MORGAN STANLEY \(0050\)
+> 
+> EMAIL ADDRESS ON FILE
+> 
+> NBCN INC./`CDS` \(5008\)
+> 
+> EMAIL ADDRESS ON FILE
+> 
+> NORTHERN TRUST CO \(2669\)
+> 
+> EMAIL
+
+### Docket 604
+
+#### [604. 17. ]
+> 0 KING STREET WEST
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5H 1H1
+> 
+> CA
+> 
+> SCOTIA CAPITAL INC `CDS` 5011
+> 
+> ATN L NIE OR L DOMINGUES OR PXY MGR
+> 
+> 40 KING STREET WES
+
+#### [604. 16. ]
+>  MGR
+> 
+> 545 5TH AVENUE
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10036
+> 
+> US
+> 
+> SCOTIA CAPITAL INC `CDS` 5011
+> 
+> ATTN NORMITA RAMIREZ CORP ACT DEPT
+> 
+> 40 KING STREET WEST
+
+#### [604. 15. ]
+> ELLINGTON ST W 9TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 0C2
+> 
+> CA
+> 
+> RBC DOMINION `CDS` 5002
+> 
+> ATTN KAREN OLIVERES
+> 
+> 200 BAY STREET 6TH FLOOR
+> 
+> ROYAL BAN
+
+#### [604. 14. ]
+> ZA
+> 
+> NORTH TOWER 6TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 2W7
+> 
+> CA
+> 
+> RBC DOMINION `CDS` 5002
+> 
+> ATTN SHAREHOLDER SERVICES
+> 
+> 180 WELLINGTON ST W 9TH FLOO
+
+#### [604. 13. ]
+> 10 MARQUETTE AVE SOUTH
+> 
+> MINNEAPOLIS
+> 
+> MN
+> 
+> 55402
+> 
+> US
+> 
+> RBC DOMINION `CDS` 4801
+> 
+> ATTN PETER DRUMM OR PROXY MGR
+> 
+> 200 BAY ST ROYAL BK PLAZ
+
+#### [604. 12. ]
+> ST W
+> 
+> 7TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 2W5
+> 
+> CA
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN R ROOPSINGH OR PROXY MGR
+> 
+> 22 FRONT ST 
+> 
+> TORONTO
+> 
+> ON
+> 
+
+
+#### [604. 11. ]
+>  ATTN CORP ACT
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 2W5
+> 
+> CA
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN HENRY H LIANG
+> 
+> 22 FRONT ST W
+> 
+> 7TH FLOOR
+> 
+> TORONTO
+> 
+> ON
+> 
+
+
+#### [604. 10. ]
+> BAY ST 10TH FL
+> 
+> TORONTO
+> 
+> ON
+> 
+> M5J 258
+> 
+> CA
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN REED JON
+> 
+> CANADIAN IMPERIAL BANK OF COMMERCE
+> 
+> 22 FR
+
+#### [604. 9. ]
+> HXPEAK 01 1B571A
+> 
+> PHOENIX
+> 
+> AZ
+> 
+> 85016
+> 
+> US
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030
+> 
+> ATTN NICASTRO JERRY OR PROXY MGR
+> 
+> 161 BAY ST 10TH FL
+> 
+> TO
+
+#### [604. 8. ]
+> 301 SIXTH AVENUE
+> 
+> NEW YORK
+> 
+> NY
+> 
+> 10019
+> 
+> US
+> 
+> BMO NESBITT BURNS INC `CDS` 5043
+> 
+> ATTN PHUTHORN PENIKETT D FERNANDES
+> 
+> BMO FINANCIAL GROUP
+
+### Docket 390
+
+#### [390. 7. ]
+> OOR 
+> 
+> MONTREAL 
+> 
+> QC 
+> 
+> H3B2Y5 
+> 
+> Canada
+> 
+> DESJARDINS SECURITIES INC `CDS` 5028 
+> 
+> ATTN VERONIQUE LEMIEUX OR PROXY MGR 
+> 
+> 1060 UNIVERSITY
+
+#### [390. 6. ]
+> UT STREET 
+> 
+> KANSAS CITY 
+> 
+> MO 
+> 
+> 64106
+> 
+> CREDENTIAL SECURITIES INC `CDS` 5083 
+> 
+> ATTN PROXY DEPARTMENT 
+> 
+> 700 1111 WEST GEORGIA ST 
+> 
+> VANC
+
+#### [390. 5. ]
+>  FLOOR 
+> 
+> TORONTO 
+> 
+> ON 
+> 
+> M5J 2W5 
+> 
+> Canada
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030 
+> 
+> ATTN R ROOPSINGH OR PROXY MGR 
+> 
+> 22 FRONT ST 
+> 
+> TORONTO 
+> 
+
+
+#### [390. 4. ]
+> RP ACT 
+> 
+> TORONTO 
+> 
+> ON 
+> 
+> M5J 2W5 
+> 
+> Canada
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030 
+> 
+> ATTN HENRY H LIANG 
+> 
+> 22 FRONT ST W 
+> 
+> 7TH FLOOR 
+> 
+> TORONTO
+
+#### [390. 3. ]
+> 0TH FL 
+> 
+> TORONTO 
+> 
+> ON 
+> 
+> M5J 258 
+> 
+> Canada
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030 
+> 
+> ATTN REED JON 
+> 
+> CANADIAN IMPERIAL BANK OF COMMERCE 
+> 
+> 22
+
+#### [390. 2. ]
+> HXPEAK 01 1B571A 
+> 
+> PHOENIX 
+> 
+> AZ 
+> 
+> 85016
+> 
+> CIBC WORLD MARKETS INC `CDS` 5030 
+> 
+> ATTN NICASTRO JERRY OR PROXY MGR 
+> 
+> 161 BAY ST 10TH FL
+
+#### [390. 1. ]
+>  
+> 
+> 3 TIMES SQUARE 
+> 
+> NEW YORK 
+> 
+> NY 
+> 
+> 10036
+> 
+> BMO NESBITT BURNS INC `CDS` 5043 
+> 
+> ATTN PHUTHORN PENIKETT D FERNANDES 
+> 
+> BMO FINANCIAL GRO

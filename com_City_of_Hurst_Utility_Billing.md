@@ -1,0 +1,346 @@
+
+## com: City of Hurst Utility Billing
+
+[Back to main Index](README.md)
+
+Total hits: `14`
+
+Dockets hit: 21, 168, 269, 604, 640, 660, 889, 892, 948, 1332, 1333, 1534, 2135, 
+
+### Docket 2135
+
+#### [2135. 14. ]
+> Y OF HUMBLE 
+> 
+> 114 WHIGGINS
+> 
+> HUMBLE
+> 
+> TX
+> 
+> 77338
+> 
+> 16595406
+> 
+> 12670175
+> 
+> `CITY OF HURST UTILITY BILLING` 
+> 
+> 1505 PRECINCT LINE RD
+> 
+> HURST
+> 
+> TX
+> 
+> 76054
+> 
+> 16579964
+> 
+> 12656439
+> 
+> CIT
+
+### Docket 1534
+
+#### [1534. 13. ]
+> RY 
+> 
+> CITY OF HOUSTON 
+> 
+> CITY OF HUBER HEIGHTS 
+> 
+> CITY OF HUMBLE 
+> 
+> `CITY OF HURST UTILITY BILLING` 
+> 
+> CITY OF INDEPENDENCE 
+> 
+> CITY OF ISSAQUAH 
+> 
+> CITY OF ITHACA 
+> 
+> CI
+
+### Docket 1333
+
+#### [1333. 12. ]
+> F FRESNO 
+> 
+> FLORIDA POWER & LIGHT CO 
+> 
+> CITY OF PEMBROKE PINES 
+> 
+> `CITY OF HURST UTILITY BILLING` 
+> 
+> VEOLIA WATER NEW YORK INC 
+> 
+> SAN DIEGUITO WATER DISTRICT 
+> 
+> SA
+
+### Docket 1332
+
+#### [1332. 11. ]
+> F FRESNO 
+> 
+> FLORIDA POWER & LIGHT CO 
+> 
+> CITY OF PEMBROKE PINES 
+> 
+> `CITY OF HURST UTILITY BILLING` 
+> 
+> VEOLIA WATER NEW YORK INC 
+> 
+> SAN DIEGUITO WATER DISTRICT 
+> 
+> SA
+
+### Docket 948
+
+#### [948. 10. ]
+> RY 
+> 
+> CITY OF HOUSTON 
+> 
+> CITY OF HUBER HEIGHTS 
+> 
+> CITY OF HUMBLE 
+> 
+> `CITY OF HURST UTILITY BILLING` 
+> 
+> CITY OF INDEPENDENCE 
+> 
+> CITY OF ISSAQUAH 
+> 
+> CITY OF ITHACA 
+> 
+> CI
+
+### Docket 892
+
+#### [892. 9. ]
+> TY ALARMS OFFICE
+> 
+> P.O. BOX 2085
+> 
+> HUNTSVILLE
+> 
+> AL
+> 
+> 35804
+> 
+> 12670175
+> 
+> `CITY OF HURST UTILITY BILLING` 
+> 
+> PRECINCT LINE RD
+> 
+> HURST
+> 
+> TX
+> 
+> 76054
+> 
+> 12656439
+> 
+> CITY OF INDEPENDE
+
+### Docket 889
+
+#### [889. 8. ]
+> RY 
+> 
+> CITY OF HOUSTON 
+> 
+> CITY OF HUBER HEIGHTS 
+> 
+> CITY OF HUMBLE 
+> 
+> `CITY OF HURST UTILITY BILLING` 
+> 
+> CITY OF INDEPENDENCE 
+> 
+> CITY OF ISSAQUAH 
+> 
+> CITY OF ITHACA 
+> 
+> CI
+
+### Docket 660
+
+#### [660. 7. ]
+> f Fresno 
+> 
+> Florida Power & Light Co 
+> 
+> City Of Pembroke Pines 
+> 
+> `City Of Hurst Utility Billing` Veolia Water New York Inc 
+> 
+> San Dieguito Water District 
+> 
+> San
+
+### Docket 640
+
+#### [640. 6. ]
+> 56445
+> 
+> CITY OF HUMBLE 
+> 
+> 114 WHIGGINS
+> 
+> HUMBLE
+> 
+> TX
+> 
+> 77338
+> 
+> 12670175
+> 
+> `CITY OF HURST UTILITY BILLING` 
+> 
+> 1505 PRECINCT LINE RD
+> 
+> HURST
+> 
+> TX
+> 
+> 76054
+> 
+> 12656439
+> 
+> CITY OF INDE
+
+### Docket 604
+
+#### [604. 5. ]
+> NT
+> 
+> PUBLIC SAFETY ALARMS OFFICE
+> 
+> HUNTSVILLE
+> 
+> AL
+> 
+> 35804
+> 
+> 12670175
+> 
+> `CITY OF HURST UTILITY BILLING` 
+> 
+> 1505 PRECINCT LINE RD
+> 
+> HURST
+> 
+> TX
+> 
+> 76054
+> 
+> 12755282
+> 
+> CITY OF INDE
+
+### Docket 269
+
+#### [269. 4. ]
+> \_00092
+> 
+> CITY OF HUMBLE
+> 
+> 114 WHIGGINS
+> 
+> HUMBLE
+> 
+> TX
+> 
+> 77338
+> 
+> PC\_00773
+> 
+> `CITY OF HURST UTILITY BILLING`
+> 
+> 1505 PRECINCT LINE RD
+> 
+> HURST
+> 
+> TX
+> 
+> 76054
+> 
+> PC\_00086
+> 
+> CITY OF INDEP
+
+### Docket 168
+
+#### [168. 3. ]
+> LE, TX 77338
+> 
+> 1040043988003
+> 
+> 1040043993000
+> 
+> WATER - SEWER
+> 
+>  200
+> 
+> `CITY OF HURST UTILITY BILLING`
+> 
+> 1505 PRECINCT LINE RD
+> 
+> HURST, TX 76054
+> 
+> 09195
+> 
+> WATER - SEWER
+> 
+
+
+#### [168. 2. ]
+> X 77338 
+> 
+> 1040043988003 
+> 
+> 1040043993000 
+> 
+> WATER - SEWER 
+> 
+>  200 
+> 
+> `CITY OF HURST UTILITY BILLING` 
+> 
+> 1505 PRECINCT LINE RD 
+> 
+> HURST, TX 76054 
+> 
+> 09195 
+> 
+> WATER - SEW
+
+### Docket 21
+
+#### [21. 1. ]
+> 77338
+> 
+> 1040043988003
+> 
+> 1040043993000
+> 
+> WATER - SEWER
+> 
+>  178 
+> 
+>  200 
+> 
+> `CITY OF HURST UTILITY BILLING`
+> 
+> 1505 PRECINCT LINE RD
+> 
+> HURST, TX 76054
+> 
+> 09195
+> 
+> WATER - SEWER
+> 
+

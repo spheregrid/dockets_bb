@@ -1,0 +1,6147 @@
+
+## com: Citadel
+
+[Back to main Index](README.md)
+
+Total hits: `299`
+
+Dockets hit: 79, 225, 269, 294, 351, 373, 404, 418, 467, 604, 630, 640, 694, 757, 892, 1199, 1276, 1282, 1306, 1318, 1322, 1327, 1346, 1366, 1535, 1696, 1831, 1859, 1874, 1904, 2135, 2164, 2275, 
+
+### Docket 2275
+
+#### [2275. 299. ]
+> MASON
+> 
+> OH
+> 
+> 45040
+> 
+> 12769628
+> 
+> 3054P2‐WEINGARTEN REALTY INVESTORS 
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12769698
+> 
+> 3064P1‐BRIX
+
+#### [2275. 298. ]
+> MSFORD
+> 
+> NY
+> 
+> 10523
+> 
+> 12775841
+> 
+> 099P1‐WEINGARTEN REALTY INVESTORS 
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12765404
+> 
+> 1035P1‐COLO
+
+### Docket 2164
+
+#### [2164. 297. ]
+> 9634
+> 
+> WRI OVERTON PARK, LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127
+
+#### [2164. 296. ]
+> lass Mail
+> 
+> 12766331
+> 
+> WRI MUELLER, LLC 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127
+
+#### [2164. 295. ]
+>  Mail
+> 
+> 12767060
+> 
+> WRI JESS VENTURE 
+> 
+> C/O WEINGARTEN INVESTMENTS
+> 
+> `CITADEL` PLACE DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 12766330
+> 
+> WRI
+
+#### [2164. 294. ]
+> 
+> 
+> 12767059
+> 
+> WRI ALLIANCE RILEY VENTURE 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> `CITADEL` PLAZA DRIVE, SUITE 
+> 
+> 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 1
+
+#### [2164. 293. ]
+> VOTAL 650 CALIF. 
+> 
+> ST., LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> `CITADEL` PLAZA DR
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127670
+
+#### [2164. 292. ]
+> 12766329
+> 
+> WEINGARTEN REALTY INVESTORS 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> `CITADEL` PLAZA DRIVE, SUITE 
+> 
+> 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 1
+
+#### [2164. 291. ]
+> il
+> 
+> 12768917
+> 
+> WEINGARTEN NOSTAT, INC. 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127
+
+#### [2164. 290. ]
+> lsinc@gmail.com
+> 
+> Email
+> 
+> 12766208
+> 
+> WEINGARTEN HERNDON PLAZA JV 
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> POB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292-4133
+> 
+> First Class Ma
+
+#### [2164. 289. ]
+> rst Class Mail
+> 
+> 12769628
+> 
+> 3054P2-WEINGARTEN REALTY INVESTORS 
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127
+
+#### [2164. 288. ]
+> irst Class Mail
+> 
+> 12775841
+> 
+> 099P1-WEINGARTEN REALTY INVESTORS 
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127
+
+### Docket 2135
+
+#### [2135. 287. ]
+> TON
+> 
+> TX
+> 
+> 77292
+> 
+> 16662515
+> 
+> 12727832
+> 
+> WRI‐URS SOUTH HILL, LLC
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> SUITE \#125204414
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16689111
+> 
+> 1277089
+
+#### [2135. 286. ]
+> NY
+> 
+> 11753
+> 
+> 16657687
+> 
+> 12755423
+> 
+> WRI/RALEIGH, LP
+> 
+> LEASE \#9001
+> 
+> 2600 `CITADEL` PLAZA DRIVESUITE \# 
+> 
+> 125205104
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16657688
+> 
+> 127
+
+#### [2135. 285. ]
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16657671
+> 
+> 12724713
+> 
+> WRI TRAUTMANN, L.P.
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE \# 125205177
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16657670
+> 
+> 127
+
+#### [2135. 284. ]
+> 2775747
+> 
+> WRI‐ TC INTERNATIONAL DRIVE VALUE CENTER, 
+> 
+> LLC
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 770
+
+#### [2135. 283. ]
+> X
+> 
+> 77008
+> 
+> 16667904
+> 
+> 12748750
+> 
+> WRI SEMINOLE MARKETPLACE,LLC
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE \# 12527308
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16667905
+> 
+> 1273
+
+#### [2135. 282. ]
+> 
+> 
+> 77008
+> 
+> 16689756
+> 
+> 12773056
+> 
+> WRI SEMINOLE MARKETPLACE, LLC
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 770
+
+#### [2135. 281. ]
+> 
+> 
+> WRI RETAIL POOL I, LP
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16689756
+> 
+> 12773056
+> 
+> WR
+
+#### [2135. 280. ]
+> TON
+> 
+> TX
+> 
+> 77008
+> 
+> 16665208
+> 
+> 12729537
+> 
+> WRI RETAIL POOL I, L.P.
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> LEASE \#14837SUITE\# 12532156
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16665
+
+#### [2135. 279. ]
+> 
+> 
+> WRI OVERTON PARK, LLC
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16665208
+> 
+> 12729537
+> 
+> WR
+
+#### [2135. 278. ]
+> 87699
+> 
+> 12766331
+> 
+> WRI MUELLER, LLC
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16667642
+> 
+> 12757060
+> 
+> WR
+
+#### [2135. 277. ]
+> IVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16659833
+> 
+> 12726110
+> 
+> WRI MUELLER LLC
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> BU 21245LS15918SUITE \# 125212767
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+
+
+#### [2135. 276. ]
+> 0
+> 
+> 12767060
+> 
+> WRI JESS VENTURE
+> 
+> C/O WEINGARTEN INVESTMENTS
+> 
+> 2600 `CITADEL` PLACE DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16659833
+> 
+> 12726110
+> 
+> WRI MUELLER
+
+#### [2135. 275. ]
+> 
+> 
+> 75303
+> 
+> 16687856
+> 
+> 12766825
+> 
+> WRI BROOKWOOD MARKETPLACE LLC
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16656992
+> 
+> 12724274
+> 
+> WRI BROOKWOO
+
+#### [2135. 274. ]
+> S
+> 
+> TX
+> 
+> 75303
+> 
+> 16657714
+> 
+> 12755438
+> 
+> WRI BEST IN THE WEST, LLC
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> SUITE \#125205124
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16657715
+> 
+> 1275543
+
+#### [2135. 273. ]
+> 77008
+> 
+> 16666744
+> 
+> 12756867
+> 
+> WRI ALLIANCE RILEY VENTURE III
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE \# 125208769
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16666745
+> 
+> 127
+
+#### [2135. 272. ]
+> 67059
+> 
+> WRI ALLIANCE RILEY VENTURE
+> 
+> C/O WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16666744
+> 
+> 12756867
+> 
+> W
+
+#### [2135. 271. ]
+> AL 650 CALIF. ST., LLC
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16655165
+> 
+> 12723226
+> 
+> WRAP
+
+#### [2135. 270. ]
+> ETOWN
+> 
+> CT
+> 
+> 06457
+> 
+> 16665806
+> 
+> 12756710
+> 
+> WIENGARTEN NOSTAT INC
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE\# 12536323
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16665805
+> 
+> 12756
+
+#### [2135. 269. ]
+> LLER/THORNCREED II LLC
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16667147
+> 
+> 12759173
+> 
+> W
+
+#### [2135. 268. ]
+> RTEN/INVESTMENTS, INC.
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16666740
+> 
+> 12730525
+> 
+> W
+
+#### [2135. 267. ]
+> X
+> 
+> 77216
+> 
+> 16666739
+> 
+> 12730524
+> 
+> WEINGARTEN/INVESTMENTS, INC.
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE \# 125208765
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16687919
+> 
+> 127
+
+#### [2135. 266. ]
+> 
+> 
+> WEINGARTEN,MILLER,THORNCREEK
+> 
+> ATTN:PROPERTY MGMT.19089
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16666776
+> 
+> 12730548
+> 
+> WE
+
+#### [2135. 265. ]
+> 6667966
+> 
+> 12731243
+> 
+> WEINGARTEN REALTY INVESTORS\_RNT215080
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> BU 21165LS16067SUITE\# 125215080
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 1
+
+#### [2135. 264. ]
+> 6660222
+> 
+> 12726338
+> 
+> WEINGARTEN REALTY INVESTORS\_RNT214555
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> SUITE \#125214555
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16660223
+> 
+> 1272633
+
+#### [2135. 263. ]
+> 6658797
+> 
+> 12725453
+> 
+> WEINGARTEN REALTY INVESTORS\_RNT210605
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> BU 20395LS8443SUITE \#125210605
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16
+
+#### [2135. 262. ]
+> 6667292
+> 
+> 12730891
+> 
+> WEINGARTEN REALTY INVESTORS\_RNT208901
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> SUITE \#125208901
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16667291
+> 
+> 1273089
+
+#### [2135. 261. ]
+> 4723
+> 
+> WEINGARTEN REALTY INVESTORS\_RNT205183
+> 
+> LEASE \#9461
+> 
+> 2600 `CITADEL` PLAZA DRSUITE \#125205183
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16657680
+> 
+> 12724722
+
+#### [2135. 260. ]
+> 6666183
+> 
+> 12730180
+> 
+> WEINGARTEN REALTY INVESTORS\_RNT 11330
+> 
+> 2600 `CITADEL` PLAZA DR STE 300
+> 
+> ATTN: MERCEDES GUZMAN11330
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 7700
+
+#### [2135. 259. ]
+> 6666182
+> 
+> 12730179
+> 
+> WEINGARTEN REALTY INVESTORS\_RNT 11330
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> BU 20215LS4658SUITE\# 12511330
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 166
+
+#### [2135. 258. ]
+>  REALTY INVESTORS
+> 
+> COUNSEL
+> 
+> C/O KIMCO REALTY CORPORATION
+> 
+> 2600 `CITADEL` PLAZA 
+> 
+> DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16828790
+> 
+> 12926074
+> 
+> W
+
+#### [2135. 257. ]
+> 6329
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> C/O WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16689415
+> 
+> 12771786
+> 
+> W
+
+#### [2135. 256. ]
+> INGARTEN REALTY INVESTORS
+> 
+> C/O KIMCO REALTY CORPORATION
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16687697
+> 
+> 12766329
+> 
+> WE
+
+#### [2135. 255. ]
+> 3063
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16689414
+> 
+> 12771785
+> 
+> W
+
+#### [2135. 254. ]
+> TX
+> 
+> 77008
+> 
+> 16828914
+> 
+> 12926198
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16689758
+> 
+> 12773063
+> 
+> WE
+
+#### [2135. 253. ]
+> TX
+> 
+> 77216
+> 
+> 16688253
+> 
+> 12768059
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 300
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16828914
+> 
+> 12926198
+> 
+> WE
+
+#### [2135. 252. ]
+> 92
+> 
+> 16657530
+> 
+> 12724624
+> 
+> WEINGARTEN NOSTAT, INC.\_RNT204862
+> 
+> 2600 `CITADEL` PLAZA
+> 
+> SUITE \# 125204862
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292
+> 
+> 16657529
+> 
+> 12724623
+> 
+
+
+#### [2135. 251. ]
+> 806
+> 
+> 12776061
+> 
+> WEINGARTEN NOSTAT, INC.
+> 
+> WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLACE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16663810
+> 
+> 12728694
+> 
+> WEINGART
+
+#### [2135. 250. ]
+> 2768917
+> 
+> WEINGARTEN NOSTAT, INC.
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16689766
+> 
+> 12773096
+> 
+> WE
+
+#### [2135. 249. ]
+> 0
+> 
+> 16657726
+> 
+> 12724742
+> 
+> WEINGARTEN NOSTAT, INC
+> 
+> LEASE \#9062
+> 
+> 2600 `CITADEL` PLAZA DRIVESUITE 
+> 
+> 125205132
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16687508
+> 
+> 12765
+
+#### [2135. 248. ]
+> STON
+> 
+> TX
+> 
+> 77292
+> 
+> 16688248
+> 
+> 12768043
+> 
+> WEINGARTEN NOSTAT, INC
+> 
+> 2600 `CITADEL` PLAZA, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292‐4133
+> 
+> 16657727
+> 
+> 12724743
+> 
+> WE
+
+#### [2135. 247. ]
+> \_RNT258399
+> 
+> LEASE \#16824
+> 
+> C/O WEINGARTEN REALTY INVESTOR
+> 
+> 2600 `CITADEL` PLAZA 
+> 
+> DR, STE 125258399
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292
+> 
+> 16660637
+> 
+> 12755890
+
+#### [2135. 246. ]
+> 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA 
+> 
+> DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16660573
+> 
+> 12726579
+> 
+
+
+#### [2135. 245. ]
+> WEINGARTEN NOSTAT INC.
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> ATTN: GENERAL 
+> 
+> COUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77
+
+#### [2135. 244. ]
+> TX
+> 
+> 75266
+> 
+> 16687656
+> 
+> 12766208
+> 
+> WEINGARTEN HERNDON PLAZA JV
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> POB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292‐4133
+> 
+> 16664333
+> 
+> 12728
+
+#### [2135. 243. ]
+> 771782
+> 
+> KIMCO REALTY CORPORATION
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16689507
+> 
+> 12772086
+> 
+> KI
+
+#### [2135. 242. ]
+> e COUNTRY
+> 
+> 495
+> 
+> 16649831
+> 
+> 12753971
+> 
+> K & H MANUFACTURING LLC
+> 
+> 825 `CITADEL` DR E STE 250
+> 
+> COLORADO SPRINGS
+> 
+> CO
+> 
+> 80916
+> 
+> 16649832
+> 
+> 12720325
+> 
+> K
+
+#### [2135. 241. ]
+> CENTER
+> 
+> P.O.BOX 291664917
+> 
+> PHOENIX
+> 
+> AZ
+> 
+> 85038
+> 
+> 16644610
+> 
+> 12745135
+> 
+> `CITADEL` ADVISORS LLC
+> 
+> 200 S. BISCAYNE BLVD.
+> 
+> SUITE 3300
+> 
+> MIAMI
+> 
+> FL 
+> 
+> 331
+
+#### [2135. 240. ]
+> 7 P1‐WEINGARTEN REALTY INVESTORS
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA DRIVE \#125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 16697462
+> 
+> 12773057
+> 
+> 6187 P1
+
+### Docket 1904
+
+#### [1904. 239. ]
+> Boston
+> 
+> MA 
+> 
+> 02210
+> 
+> 12926198
+> 
+> Weingarten Realty Investors 
+> 
+> 2600 `Citadel` Plaza Drive Suite 125
+> 
+> Houston
+> 
+> TX
+> 
+> 77008
+> 
+> 12925865
+> 
+> WG SECURITY
+
+### Docket 1874
+
+#### [1874. 238. ]
+> EALTY INVESTORS 
+> 
+> DOUGLAS, GENE 
+> 
+> ATTN: GENERAL COUNSEL 
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> gdouglas@weinga
+
+### Docket 1859
+
+#### [1859. 237. ]
+> ail
+> 
+> 12766331 
+> 
+> WRI MUELLER, LLC
+> 
+> ATTN: LEGAL 
+> 
+> DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [1859. 236. ]
+> 29
+> 
+> WEINGARTEN REALTY 
+> 
+> INVESTORS
+> 
+> C/O WEINGARTEN 
+> 
+> REALTY
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [1859. 235. ]
+> 68917 
+> 
+> WEINGARTEN NOSTAT, INC.
+> 
+> ATTN: LEGAL 
+> 
+> DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+### Docket 1831
+
+#### [1831. 234. ]
+> ail
+> 
+> 12766331 WRI MUELLER, LLC 
+> 
+> ATTN: LEGAL 
+> 
+> DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [1831. 233. ]
+> 9
+> 
+> WEINGARTEN REALTY 
+> 
+> INVESTORS 
+> 
+> C/O WEINGARTEN 
+> 
+> REALTY
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [1831. 232. ]
+> 68917 WEINGARTEN NOSTAT, INC. 
+> 
+> ATTN: LEGAL 
+> 
+> DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+### Docket 1696
+
+#### [1696. 231. ]
+>  retail fixtures 
+> 
+> 470 
+> 
+> WRI BROOKWOOD 
+> 
+> MARKETPLACE LLC 
+> 
+> 2600 `Citadel` Plaza Drive , Houston, TX, 
+> 
+> 77008 
+> 
+> Store Lease 
+> 
+> 1233 
+> 
+> 2623
+
+#### [1696. 230. ]
+> /or retail fixtures 
+> 
+> 451 
+> 
+> Weingarten Realty Investors 
+> 
+> 2600 `Citadel` Plaza Drive, Suite 125Attn: 
+> 
+> General Counsel , Houston, TX,
+
+### Docket 1535
+
+#### [1535. 229. ]
+> 
+> 
+> 77008
+> 
+> 12767060
+> 
+> WRI JESS VENTURE
+> 
+> C/O WEINGARTEN INVESTMENTS
+> 
+> `CITADEL` PLACE DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12770892
+> 
+> WRI‐URS SOUTH HILL, L
+
+#### [1535. 228. ]
+> E
+> 
+> 12767059
+> 
+> WRI ALLIANCE RILEY VENTURE
+> 
+> C/O WEINGARTEN REALTY
+> 
+> `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12767060
+> 
+> WRI JESS V
+
+### Docket 1366
+
+#### [1366. 227. ]
+> MAIL
+> 
+> 12766331
+> 
+> WRI MUELLER, LLC 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> FIRST CLASS MAIL
+> 
+> Pag
+
+#### [1366. 226. ]
+>  650 CALIF. ST., LLC 
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> FIRST CLASS MAIL
+> 
+> 127670
+
+#### [1366. 225. ]
+> 329
+> 
+> WEINGARTEN REALTY INVESTORS 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 
+> 
+> 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> FIRST CLASS MAIL
+> 
+> 1
+
+#### [1366. 224. ]
+> FIRST CLASS MAIL
+> 
+> 12766208
+> 
+> WEINGARTEN HERNDON PLAZA JV 
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> POB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292-4133
+> 
+> FIRST CLASS MA
+
+### Docket 1346
+
+#### [1346. 223. ]
+> 12767060
+> 
+> WRI JESS VENTURE 
+> 
+> C/O WEINGARTEN 
+> 
+> INVESTMENTS
+> 
+> 2600 `CITADEL` PLACE 
+> 
+> DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> Page 10 of 11
+> 
+>  ADRID NAME ADD
+
+#### [1346. 222. ]
+> 7059
+> 
+> WRI ALLIANCE RILEY VENTURE 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLAZA 
+> 
+> DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12767060
+> 
+> WRI JESS
+
+### Docket 1327
+
+#### [1327. 221. ]
+> AL WRI MUELLER LLC
+> 
+> \$232,431
+> 
+> WRI/RALEIGH, LP
+> 
+> LEASE \#90012600 `CITADEL` PLAZA DRIVESUITE \# 125205104
+> 
+> HOUSTON, TX 77008
+> 
+> 3.
+> 
+> 1429
+> 
+> Othe
+
+#### [1327. 220. ]
+> AL WRI MUELLER LLC
+> 
+> \$232,431
+> 
+> WRI/RALEIGH, LP
+> 
+> LEASE \#90012600 `CITADEL` PLAZA DRIVESUITE \# 125205104
+> 
+> HOUSTON, TX 77008
+> 
+> 3.
+> 
+> 1429
+> 
+> Othe
+
+### Docket 1322
+
+#### [1322. 219. ]
+> IVOTAL 650 CALIF. ST., LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> `CITADEL` PLAZA DR
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127670
+
+#### [1322. 218. ]
+> 0907
+> 
+> First Class Mail
+> 
+> 12766208
+> 
+> WEINGARTEN HERNDON PLAZA JV 
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> POB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292‐4133
+> 
+> First Class Ma
+
+#### [1318. 217. (OCR img_0198)]
+> TAT, INC,, a Texas corporation; having an address at 8 2600 `Citadel` Plaza Drive, POB \# 924133, Houston, Texas 77292-4133 \("Land
+
+#### [1318. 216. (OCR img_0133)]
+> 23.11 hereof: 50 51 1.1.19 Landlord's Mailing Address: 2600 `Citadel` Plaza Drive, POB \# 924133, 52 Houston, Texas 77292-4133, At
+
+#### [1318. 215. (OCR img_0132)]
+> STAT, INC,, a Texas corporation, having an office at 6 2600 `Citadel` Plaza Drive, POB \# 924133, Houston, Texas 77292-4133 \( "Lan
+
+#### [1318. 214. (OCR img_0074)]
+> TAT, INC,, a Texas corporation; having an address at 8 2600 `Citadel` Plaza Drive, POB \# 924133, Houston, Texas 77292-4133 \("Land
+
+#### [1318. 213. (OCR img_0006)]
+> 23.11 hereof: 50 51 1.1.19 Landlord's Mailing Address: 2600 `Citadel` Plaza Drive, POB \# 924133, 52 Houston, Texas 77292-4133, At
+
+### Docket 1318
+
+#### [1318. 212. (OCR img_0005)]
+> STAT, INC,, a Texas corporation, having an office at 6 2600 `Citadel` Plaza Drive, POB \# 924133, Houston, Texas 77292-4133 \( "Lan
+
+### Docket 1306
+
+#### [1306. 211. ]
+> Mail
+> 
+> 12766331
+> 
+> WRI MUELLER, LLC 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+>  Ad
+
+#### [1306. 210. ]
+> L 650 CALIF. ST., LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127670
+
+#### [1306. 209. ]
+> 329
+> 
+> WEINGARTEN REALTY INVESTORS 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 12
+
+#### [1306. 208. ]
+> First Class Mail
+> 
+> 12766208
+> 
+> WEINGARTEN HERNDON PLAZA JV 
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> POB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292‐4133
+> 
+> First Class Ma
+
+### Docket 1282
+
+#### [1282. 207. ]
+> WEINGARTEN,MILLER,THORNCREEK 
+> 
+> ATTN:PROPERTY MGMT.19089
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+>  AddressID Name Addr
+
+#### [1282. 206. ]
+> NGARTEN REALTY INVESTORS 
+> 
+> C/O KIMCO REALTY CORPORATION
+> 
+> 2600 `Citadel` Plaza Drive
+> 
+>  Suite 125
+> 
+> Houston
+> 
+> TX
+> 
+> 77008
+> 
+> 12730547
+> 
+> WEINGARTEN
+
+### Docket 1276
+
+#### [1276. 205. ]
+> RI OVERTON PARK, LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS 
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [1276. 204. ]
+> ail
+> 
+> 12766331 WRI MUELLER, LLC 
+> 
+> ATTN: LEGAL DEPARTMENT 
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [1276. 203. ]
+> 2769632 WEINGARTEN REALTY INVESTORS 
+> 
+> LANCASTER, KAREN 
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> klancaster@wein
+
+#### [1276. 202. ]
+> EALTY INVESTORS 
+> 
+> DOUGLAS, GENE 
+> 
+> ATTN: GENERAL COUNSEL 
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> gdouglas@weinga
+
+#### [1276. 201. ]
+> 29 WEINGARTEN REALTY INVESTORS 
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [1276. 200. ]
+>  INVESTORS 
+> 
+> BURBANK, PAIGE, REGIONAL PROPERTY MANAGER 
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> pburbank@weinga
+
+#### [1276. 199. ]
+> 499 WEINGARTEN REALTY 
+> 
+> WALKER, LORI, PROPERTY MANAGER 
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> lwalker@weingar
+
+#### [1276. 198. ]
+> 68917 WEINGARTEN NOSTAT, INC. 
+> 
+> ATTN: LEGAL DEPARTMENT 
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [1276. 197. ]
+>  REALTY CORPORATION 
+> 
+> JOHNSON, LEVIE, PROPERTY MANAGER 
+> 
+> 2600 `CITADEL` PLAZA DR. 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> l.johnson@kimcore
+
+#### [1276. 196. ]
+> 12766920 KIMCO REALTY 
+> 
+> MILONE, ANNA, PROPERTY MANAGER 
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> amilone@kimcorea
+
+#### [1276. 195. ]
+> 19 KIMCO REALTY 
+> 
+> ENWALL, PAULA, ASST PROPERTY MANAGER 
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> penwall@kimcorea
+
+### Docket 1199
+
+#### [1199. 194. ]
+> 9634
+> 
+> WRI OVERTON PARK, LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127
+
+#### [1199. 193. ]
+> lass Mail
+> 
+> 12766331
+> 
+> WRI MUELLER, LLC 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127
+
+#### [1199. 192. ]
+>  Mail
+> 
+> 12767060
+> 
+> WRI JESS VENTURE 
+> 
+> C/O WEINGARTEN INVESTMENTS
+> 
+> `CITADEL` PLACE DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 12766330
+> 
+> WRI
+
+#### [1199. 191. ]
+> 
+> 
+> 12767059
+> 
+> WRI ALLIANCE RILEY VENTURE 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 12
+
+#### [1199. 190. ]
+> IVOTAL 650 CALIF. ST., LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> `CITADEL` PLAZA DR
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127670
+
+#### [1199. 189. ]
+> 12766329
+> 
+> WEINGARTEN REALTY INVESTORS 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 12
+
+#### [1199. 188. ]
+> il
+> 
+> 12768917
+> 
+> WEINGARTEN NOSTAT, INC. 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127
+
+#### [1199. 187. ]
+> 7206
+> 
+> First Class Mail
+> 
+> 12766208
+> 
+> WEINGARTEN HERNDON PLAZA JV 
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> POB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292‐4133
+> 
+> First Class Ma
+
+### Docket 892
+
+#### [892. 186. ]
+> OR205370
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292
+> 
+> 12727832
+> 
+> WRIͲURSSOUTHHILL,LLC
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> SUITE\#125204414
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12770892
+> 
+> WRIͲURSSOU
+
+#### [892. 185. ]
+> 010
+> 
+> JERICHO
+> 
+> NY
+> 
+> 11753
+> 
+> 12755423
+> 
+> WRI/RALEIGH,LP
+> 
+> LEASE\#9001
+> 
+> 2600`CITADEL`PLAZADRIVESUITE\#
+> 
+> 125205104
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12755424
+> 
+> WRI/RAL
+
+#### [892. 184. ]
+> WRITRAUTMANN,L.P.
+> 
+> BAEZ,LIZ
+> 
+> C/OWEINGARTENREALTYINVESTORS
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12724712
+> 
+> WRITRAUTMANN,L
+
+#### [892. 183. ]
+> LCODE COUNTRY
+> 
+> Page1530of1552
+> 
+> 12724713
+> 
+> WRITRAUTMANN,L.P.
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE\#125205177
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12771747
+> 
+> WRITRAU
+
+#### [892. 182. ]
+> 75303
+> 
+> 12775747
+> 
+> WRIͲTCINTERNATIONALDRIVEVALUE
+> 
+> CENTER,LLC
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> ATTN:GENERALCOUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+>  AD
+
+#### [892. 181. ]
+> EL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12748750
+> 
+> WRISEMINOLEMARKETPLACE,LLC
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE\#12527308
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12731208
+> 
+> WRISEMIN
+
+#### [892. 180. ]
+> 25
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773056
+> 
+> WRISEMINOLEMARKETPLACE,LLC
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> ATTN:GENERALCOUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 127
+
+#### [892. 179. ]
+> 12775928
+> 
+> WRIRETAILPOOLI,LP
+> 
+> C/OWEINGARTENREALTYINVESTORS
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773056
+> 
+> WRISEMINOLEMAR
+
+#### [892. 178. ]
+> 
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12729537
+> 
+> WRIRETAILPOOLI,L.P.
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> LEASE\#14837SUITE\#12532156
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12729536
+> 
+
+
+#### [892. 177. ]
+> 2769634
+> 
+> WRIOVERTONPARK,LLC
+> 
+> C/OWEINGARTENREALTYINVESTORS
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12729537
+> 
+> WRIRETAILPOOLI
+
+#### [892. 176. ]
+> A
+> 
+> FL
+> 
+> 33630
+> 
+> 12766331
+> 
+> WRIMUELLER,LLC
+> 
+> ATTN:LEGALDEPARTMENT
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12652180
+> 
+> WRIMUELLER,LLC
+
+#### [892. 175. ]
+> TADELPLACEDRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12726110
+> 
+> WRIMUELLERLLC
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> BU21245LS15918SUITE\#125212767
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12766
+
+#### [892. 174. ]
+> 
+> 
+> 77292
+> 
+> 12767060
+> 
+> WRIJESSVENTURE
+> 
+> C/OWEINGARTENINVESTMENTS
+> 
+> 2600`CITADEL`PLACEDRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12726110
+> 
+> WRIMUELLERLLC
+> 
+> 2600CITAD
+
+#### [892. 173. ]
+> VE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12766825
+> 
+> WRIBROOKWOODMARKETPLACELLC
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12724274
+> 
+> WRIBROOKWOODMARKETPLACE
+
+#### [892. 172. ]
+> 824
+> 
+> WRIBROOKWOODMARKETPLACE
+> 
+> WALKER,LORI,PROPERTYMANAGER
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12766825
+> 
+> WRIBROOKWOODMARKETPLACE
+
+#### [892. 171. ]
+> 074208769
+> 
+> DALLAS
+> 
+> TX
+> 
+> 75303
+> 
+> 12755438
+> 
+> WRIBESTINTHEWEST,LLC
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> SUITE\#125205124
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12755439
+> 
+> WRIBESTINT
+
+#### [892. 170. ]
+> 25
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12756867
+> 
+> WRIALLIANCERILEYVENTUREIII
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE\#125208769
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12756868
+> 
+> WRIALLI
+
+#### [892. 169. ]
+> 39
+> 
+> 12767059
+> 
+> WRIALLIANCERILEYVENTURE
+> 
+> C/OWEINGARTENREALTY
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12756867
+> 
+> WRIALLIANCERIL
+
+#### [892. 168. ]
+> C&PIVOTAL650CALIF.
+> 
+> ST.,LLC
+> 
+> C/OWEINGARTENREALTYINVESTORS
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12816018
+> 
+> WRANY,REAGAN
+> 
+> ADDR
+
+#### [892. 167. ]
+> WIENER,BLAIS
+> 
+> ADDRESSONFILE
+> 
+> 12756710
+> 
+> WIENGARTENNOSTATINC
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE\#12536323
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12756709
+> 
+> WIENGART
+
+#### [892. 166. ]
+> TEN/MILLER/THORNCREEDIILLC
+> 
+> C/OWEINGARTENREALTYINVESTORS
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12759173
+> 
+> WEINGARTEN/MIL
+
+#### [892. 165. ]
+> EINGARTEN/INVESTMENTS,INC.
+> 
+> C/OWEINGARTENREALTYINVESTORS
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12730525
+> 
+> WEINGARTEN/INV
+
+#### [892. 164. ]
+> 9
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77216
+> 
+> 12730524
+> 
+> WEINGARTEN/INVESTMENTS,INC.
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE\#125208765
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12767029
+> 
+> WEINGAR
+
+#### [892. 163. ]
+> 47
+> 
+> WEINGARTEN,MILLER,THORNCREEK
+> 
+> ATTN:PROPERTYMGMT.19089
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12730548
+> 
+> WEINGARTEN,MIL
+
+#### [892. 162. ]
+> S
+> 
+> TX
+> 
+> 75303
+> 
+> 12731243
+> 
+> WEINGARTENREALTYINVESTORS\_RNT215080
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> BU21165LS16067SUITE\#125215080
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12731
+
+#### [892. 161. ]
+> S
+> 
+> TX
+> 
+> 75303
+> 
+> 12726338
+> 
+> WEINGARTENREALTYINVESTORS\_RNT214555
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> SUITE\#125214555
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12726339
+> 
+> WEINGARTEN
+
+#### [892. 160. ]
+> S
+> 
+> TX
+> 
+> 75303
+> 
+> 12725453
+> 
+> WEINGARTENREALTYINVESTORS\_RNT210605
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> BU20395LS8443SUITE\#125210605
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 127254
+
+#### [892. 159. ]
+> N
+> 
+> TX
+> 
+> 77216
+> 
+> 12730891
+> 
+> WEINGARTENREALTYINVESTORS\_RNT208901
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> SUITE\#125208901
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12730890
+> 
+> WEINGARTEN
+
+#### [892. 158. ]
+> 12724723
+> 
+> WEINGARTENREALTYINVESTORS\_RNT205183
+> 
+> LEASE\#9461
+> 
+> 2600`CITADEL`PLAZADRSUITE \#125205183
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12724722
+> 
+> WEINGARTEN
+
+#### [892. 157. ]
+> ON
+> 
+> TX
+> 
+> 77008
+> 
+> 12730180
+> 
+> WEINGARTENREALTYINVESTORS\_RNT11330
+> 
+> 2600`CITADEL`PLAZADRSTE300
+> 
+> ATTN:MERCEDESGUZMAN11330
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 1274
+
+#### [892. 156. ]
+> TA
+> 
+> GA
+> 
+> 30338
+> 
+> 12730179
+> 
+> WEINGARTENREALTYINVESTORS\_RNT11330
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> BU20215LS4658SUITE\#12511330
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 1273018
+
+#### [892. 155. ]
+> 5018
+> 
+> 12769632
+> 
+> WEINGARTENREALTYINVESTORS
+> 
+> LANCASTER,KAREN
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773307
+> 
+> WEINGARTENREAL
+
+#### [892. 154. ]
+> 8
+> 
+> 12773062
+> 
+> WEINGARTENREALTYINVESTORS
+> 
+> FRIEDRICH,SHARLYNE
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12767058
+> 
+> WEINGARTENREAL
+
+#### [892. 153. ]
+> INGARTENREALTYINVESTORS
+> 
+> DOUGLAS,GENE,SRREGIONAL
+> 
+> MANAGER
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773062
+> 
+> WEINGARTENREAL
+
+#### [892. 152. ]
+> NGARTENREALTYINVESTORS
+> 
+> DOUGLAS,GENE
+> 
+> ATTN:GENERALCOUNSEL
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12771248
+> 
+> WEINGARTENREAL
+
+#### [892. 151. ]
+> GARTENREALTYINVESTORS
+> 
+> COUNSEL
+> 
+> C/OKIMCOREALTYCORPORATION
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12775847
+> 
+> WEINGARTENREAL
+
+#### [892. 150. ]
+> 
+> 
+> 12766329
+> 
+> WEINGARTENREALTYINVESTORS
+> 
+> C/OWEINGARTENREALTY
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12771786
+> 
+> WEINGARTENREAL
+
+#### [892. 149. ]
+> 785
+> 
+> WEINGARTENREALTYINVESTORS
+> 
+> C/OKIMCOREALTYCORPORATION
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12766329
+> 
+> WEINGARTENREAL
+
+#### [892. 148. ]
+> NREALTYINVESTORS
+> 
+> BURBANK,PAIGE,REGIONAL
+> 
+> PROPERTYMANAGER
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12771785
+> 
+> WEINGARTENREAL
+
+#### [892. 147. ]
+> 62
+> 
+> WEINGARTENREALTYINVESTORS
+> 
+> BEAN,KERRY,PROPERTYMANAGER
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12769633
+> 
+> WEINGARTENREAL
+
+#### [892. 146. ]
+> 
+> 
+> 12773063
+> 
+> WEINGARTENREALTYINVESTORS
+> 
+> ATTN:GENERALCOUNSEL
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773462
+> 
+> WEINGARTENREAL
+
+#### [892. 145. ]
+> 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12768059
+> 
+> WEINGARTENREALTYINVESTORS
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE300
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773063
+> 
+> WEINGARTENREAL
+
+#### [892. 144. ]
+> 2
+> 
+> BOCARATON
+> 
+> FL
+> 
+> 33486
+> 
+> 12772439
+> 
+> WEINGARTENREALTYINVESTORS
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12768059
+> 
+> WEINGARTENREALTYI
+
+#### [892. 143. ]
+> 8
+> 
+> 12769499
+> 
+> WEINGARTENREALTY
+> 
+> WALKER,LORI,PROPERTYMANAGER
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12771388
+> 
+> WEINGARTENREAL
+
+#### [892. 142. ]
+> INGARTENREALTY
+> 
+> MEDRANO,MARGIE,ASSISTANT PROPERTYMANAGER
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12769499
+> 
+> WEINGARTENREAL
+
+#### [892. 141. ]
+> 
+> 
+> 12773938
+> 
+> WEINGARTENREALTY
+> 
+> LANE,WHITNEY,PROPERTYMANAGER
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773937
+> 
+> WEINGARTENREAL
+
+#### [892. 140. ]
+> N
+> 
+> FL
+> 
+> 33486
+> 
+> 12773061
+> 
+> WEINGARTENREALTY
+> 
+> FRIEDRICH,SHARLYNE
+> 
+> 2600`CITADEL`PLAZADR
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12768044
+> 
+> WEINGARTENREALTY
+> 
+
+
+#### [892. 139. ]
+> 661
+> 
+> 12772438
+> 
+> WEINGARTENREALTY
+> 
+> BEAN,KARI,PROPERTYMANAGER
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12770890
+> 
+> WEINGARTENREAL
+
+#### [892. 138. ]
+> USTON
+> 
+> TX
+> 
+> 77292
+> 
+> 12724624
+> 
+> WEINGARTENNOSTAT,INC.\_RNT204862
+> 
+> 2600`CITADEL`PLAZA
+> 
+> SUITE\#125204862
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292
+> 
+> 12724623
+> 
+> WEINGARTENNO
+
+#### [892. 137. ]
+> Y
+> 
+> 11753
+> 
+> 12776061
+> 
+> WEINGARTENNOSTAT,INC.
+> 
+> WEINGARTENREALTY
+> 
+> 2600`CITADEL`PLACE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12728694
+> 
+> WEINGARTENNOSTAT,IN
+
+#### [892. 136. ]
+> 012
+> 
+> 12768917
+> 
+> WEINGARTENNOSTAT,INC.
+> 
+> ATTN:LEGALDEPARTMENT
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12771444
+> 
+> WEINGARTENNOST
+
+#### [892. 135. ]
+> TAMPA
+> 
+> FL
+> 
+> 33630
+> 
+> 12724742
+> 
+> WEINGARTENNOSTAT,INC
+> 
+> LEASE\#9062
+> 
+> 2600`CITADEL`PLAZADRIVESUITE
+> 
+> 125205132
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12765724
+> 
+> WEINGART
+
+#### [892. 134. ]
+> DE COUNTRY
+> 
+> Page1491of1552
+> 
+> 12768043
+> 
+> WEINGARTENNOSTAT,INC
+> 
+> 2600`CITADEL`PLAZA,SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292Ͳ4133
+> 
+> 12724743
+> 
+> WEINGARTENNOST
+
+#### [892. 133. ]
+> ATINC\_RNT258399
+> 
+> LEASE\#16824
+> 
+> C/OWEINGARTENREALTYINVESTOR
+> 
+> 2600`CITADEL`PLAZADR,STE 125258399
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292
+> 
+> 12755890
+> 
+> WEINGARTENNO
+
+#### [892. 132. ]
+> 73204
+> 
+> WEINGARTENNOSTATINC.
+> 
+> C/OWEINGARTENREALTYINVESTORS
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> ATTN:GENERALCOUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 127
+
+#### [892. 131. ]
+> ATINC.
+> 
+> C/OWEINGARTENREALTYINVESTORS
+> 
+> ATTN:GENERALCOUNSEL
+> 
+> 2600`CITADEL`PLAZADRIVE,SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773204
+> 
+> WEINGARTENNOST
+
+#### [892. 130. ]
+> ,JOANNE
+> 
+> ADDRESSONFILE
+> 
+> 12766208
+> 
+> WEINGARTENHERNDONPLAZAJV
+> 
+> 2600`CITADEL`PLAZADRIVE
+> 
+> POB924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292Ͳ4133
+> 
+> 12728988
+> 
+> WEINGART
+
+#### [892. 129. ]
+> 62
+> 
+> KIMCOREALTYCORPORATION
+> 
+> JOHNSON,LEVIE,PROPERTYMANAGER
+> 
+> 2600`CITADEL`PLAZADR.
+> 
+> SUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12766071
+> 
+> KIMCOREALTYCORPO
+
+#### [892. 128. ]
+> 42
+> 
+> 12771782
+> 
+> KIMCOREALTYCORPORATION
+> 
+> ATTN:LEGALDEPARTMENT
+> 
+> 2600`CITADEL`PLAZADRIVESUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773094
+> 
+> KIMCOREALTYCORP
+
+#### [892. 127. ]
+> 
+> 
+> 45440
+> 
+> 12766920
+> 
+> KIMCOREALTY
+> 
+> MILONE,ANNA,PROPERTYMANAGER
+> 
+> 2600`CITADEL`PLAZADRIVESUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12765597
+> 
+> KIMCOREALTY
+> 
+> PAL
+
+#### [892. 126. ]
+> 
+> 
+> 12766919
+> 
+> KIMCOREALTY
+> 
+> ENWALL,PAULA,ASSTPROPERTY
+> 
+> MANAGER
+> 
+> 2600`CITADEL`PLAZADRIVESUITE125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12769416
+> 
+> KIMCOREALTY
+> 
+> ESH
+
+#### [892. 125. ]
+> RTYAVENUE\_12
+> 
+> UNION
+> 
+> NJ
+> 
+> 07083
+> 
+> 12753971
+> 
+> K&HMANUFACTURINGLLC
+> 
+> 825`CITADEL`DRESTE250
+> 
+> COLORADOSPRINGS
+> 
+> CO
+> 
+> 80916
+> 
+> 12720325
+> 
+> K&HMANUFACTURING
+
+#### [892. 124. ]
+> 59
+> 
+> 6187P1ͲWEINGARTENREALTYINVESTORS
+> 
+> ATTN:GENERALCOUNSEL
+> 
+> 2600`CITADEL`PLAZADRIVE\#125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773057
+> 
+> 6187P1ͲWEINGARTENRE
+
+### Docket 757
+
+#### [757. 123. ]
+> RI OVERTON PARK, LLC 
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127
+
+#### [757. 122. ]
+> Mail
+> 
+> 12766331
+> 
+> WRI MUELLER, LLC 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127
+
+#### [757. 121. ]
+> 12767060
+> 
+> WRI JESS VENTURE 
+> 
+> C/O WEINGARTEN 
+> 
+> INVESTMENTS
+> 
+> 2600 `CITADEL` PLACE DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 12766330
+> 
+> WRI
+
+#### [757. 120. ]
+> 7059
+> 
+> WRI ALLIANCE RILEY VENTURE 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLAZA DRIVE, 
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 1
+
+#### [757. 119. ]
+>  650 CALIF. ST., LLC 
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 127670
+
+#### [757. 118. ]
+> 2769632
+> 
+> WEINGARTEN REALTY 
+> 
+> INVESTORS 
+> 
+> LANCASTER, KAREN
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> klancaster@weingarte
+
+#### [757. 117. ]
+> REALTY 
+> 
+> INVESTORS 
+> 
+> DOUGLAS, GENE
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA DRIVE, 
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> gdouglas@weingarte
+
+#### [757. 116. ]
+> 29
+> 
+> WEINGARTEN REALTY 
+> 
+> INVESTORS 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLAZA DRIVE, 
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> 1
+
+#### [757. 115. ]
+> 
+> 
+> INVESTORS 
+> 
+> BURBANK, PAIGE, REGIONAL 
+> 
+> PROPERTY MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> pburbank@weingarten.
+
+#### [757. 114. ]
+> 499
+> 
+> WEINGARTEN REALTY 
+> 
+> WALKER, LORI, PROPERTY 
+> 
+> MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE, 
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> lwalker@weingarten
+
+#### [757. 113. ]
+> 768917
+> 
+> WEINGARTEN NOSTAT, INC. 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail
+> 
+> Pag
+
+#### [757. 112. ]
+>  Mail and Email
+> 
+> 12766208
+> 
+> WEINGARTEN HERNDON 
+> 
+> PLAZA JV 
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> POB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292-4133
+> 
+> First Class Ma
+
+#### [757. 111. ]
+>  REALTY CORPORATION 
+> 
+> JOHNSON, LEVIE, PROPERTY 
+> 
+> MANAGER
+> 
+> 2600 `CITADEL` PLAZA DR.
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> l.johnson@kimcorealty.
+
+#### [757. 110. ]
+> 12766920
+> 
+> KIMCO REALTY 
+> 
+> MILONE, ANNA, PROPERTY 
+> 
+> MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> amilone@kimcorealty
+
+#### [757. 109. ]
+> 19
+> 
+> KIMCO REALTY 
+> 
+> ENWALL, PAULA, ASST 
+> 
+> PROPERTY MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> penwall@kimcorealty
+
+### Docket 694
+
+#### [694. 108. ]
+> CO REALTY CORPORATION
+> 
+> JOHNSON, LEVIE, PROPERTY MANAGER
+> 
+> 2600 `CITADEL` PLAZA DR.
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> KITE REALTY
+> 
+> HUGHES, JO
+
+#### [694. 107. ]
+> 75201
+> 
+> CHARLES SCHWAB CORP
+> 
+> 3000 Schwab Way
+> 
+> Westlake
+> 
+> TX
+> 
+> 76262
+> 
+> `CITADEL` ADVISORS LLC
+> 
+> 200 S. Biscayne Blvd.
+> 
+> Suite 3300
+> 
+> Miami
+> 
+> FL 
+> 
+> 331
+
+### Docket 640
+
+#### [640. 106. ]
+> 2775747
+> 
+> WRI- TC INTERNATIONAL DRIVE VALUE CENTER, LLC 
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 770
+
+#### [640. 105. ]
+> rst Class mail
+> 
+> 12773056
+> 
+> WRI SEMINOLE MARKETPLACE, LLC 
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 770
+
+#### [640. 104. ]
+> WRI RETAIL POOL I, LP 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 127
+
+#### [640. 103. ]
+> WRI OVERTON PARK, LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 127
+
+#### [640. 102. ]
+> mail
+> 
+> 12766331
+> 
+> WRI MUELLER, LLC 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 127
+
+#### [640. 101. ]
+> 
+> 
+> 12767060
+> 
+> WRI JESS VENTURE 
+> 
+> C/O WEINGARTEN INVESTMENTS
+> 
+> 2600 `CITADEL` PLACE DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 12766330
+> 
+> WRI
+
+#### [640. 100. ]
+> 7059
+> 
+> WRI ALLIANCE RILEY VENTURE 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 12
+
+#### [640. 99. ]
+>  650 CALIF. 
+> 
+> ST., LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 127670
+
+#### [640. 98. ]
+> LER/THORNCREED II LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 12
+
+#### [640. 97. ]
+> TEN/INVESTMENTS, INC. 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+>  First Class mail 
+> 
+
+
+#### [640. 96. ]
+> 329
+> 
+> WEINGARTEN REALTY INVESTORS 
+> 
+> C/O WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 12
+
+#### [640. 95. ]
+> 063
+> 
+> WEINGARTEN REALTY INVESTORS 
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 12
+
+#### [640. 94. ]
+> First Class mail
+> 
+> 12768059
+> 
+> WEINGARTEN REALTY INVESTORS 
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 300
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 127
+
+#### [640. 93. ]
+> First Class mail
+> 
+> 12772439
+> 
+> WEINGARTEN REALTY INVESTORS 
+> 
+> 2600 `CITADEL` PLAZA DR
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 127680
+
+#### [640. 92. ]
+> il
+> 
+> 12776061
+> 
+> WEINGARTEN NOSTAT, INC. 
+> 
+> WEINGARTEN REALTY
+> 
+> 2600 `CITADEL` PLACE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 12772439
+> 
+
+
+#### [640. 91. ]
+> 768917
+> 
+> WEINGARTEN NOSTAT, INC. 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 127
+
+#### [640. 90. ]
+> 7008
+> 
+> First Class mail
+> 
+> 12768043
+> 
+> WEINGARTEN NOSTAT, INC 
+> 
+> 2600 `CITADEL` PLAZA, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292-4133
+> 
+> First Class mail
+> 
+> 127
+
+#### [640. 89. ]
+> 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 12
+
+#### [640. 88. ]
+> EINGARTEN NOSTAT INC. 
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 770
+
+#### [640. 87. ]
+> s mail and Email
+> 
+> 12766208
+> 
+> WEINGARTEN HERNDON PLAZA JV 
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> POB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292-4133
+> 
+> First Class ma
+
+#### [640. 86. ]
+> rst Class mail
+> 
+> 12766825
+> 
+> WRI BROOKWOOD MARKETPLACE LLC 
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 12771249
+> 
+> WRI/
+
+#### [640. 85. ]
+>  REALTY INVESTORS 
+> 
+> DOUGLAS, GENE
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 12
+
+#### [640. 84. ]
+> REALTY INVESTORS 
+> 
+> COUNSEL
+> 
+> C/O KIMCO REALTY CORPORATION
+> 
+> 2600 `Citadel` Plaza Drive
+> 
+> Suite 125
+> 
+> Houston
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 127
+
+#### [640. 83. ]
+> NGARTEN REALTY INVESTORS 
+> 
+> C/O KIMCO REALTY CORPORATION
+> 
+> 2600 `Citadel` Plaza Drive
+> 
+>  Suite 125
+> 
+> Houston
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 12
+
+#### [640. 82. ]
+> 71782
+> 
+> KIMCO REALTY CORPORATION 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail
+> 
+> 127
+
+#### [640. 81. ]
+>  BROOKWOOD MARKETPLACE 
+> 
+> WALKER, LORI, PROPERTY MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> LWALKER@WEINGARTEN.COM
+> 
+> First C
+
+#### [640. 80. ]
+>  REALTY INVESTORS 
+> 
+> DOUGLAS, GENE, SR REGIONAL 
+> 
+> MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> GDOUGLAS@WEINGARTEN.
+
+### Docket 630
+
+#### [630. 79. ]
+> CO REALTY CORPORATION
+> 
+> JOHNSON, LEVIE, PROPERTY MANAGER
+> 
+> 2600 `CITADEL` PLAZA DR.
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> KITE REALTY
+> 
+> HUGHES, JO
+
+#### [630. 78. ]
+> 75201
+> 
+> CHARLES SCHWAB CORP
+> 
+> 3000 Schwab Way
+> 
+> Westlake
+> 
+> TX
+> 
+> 76262
+> 
+> `CITADEL` ADVISORS LLC
+> 
+> 200 S. Biscayne Blvd.
+> 
+> Suite 3300
+> 
+> Miami
+> 
+> FL 
+> 
+> 331
+
+### Docket 604
+
+#### [604. 77. ]
+> 71782
+> 
+> KIMCO REALTY CORPORATION 
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12766515
+> 
+> KIMCO REALT
+
+#### [604. 76. ]
+> 
+> 
+> 12766920
+> 
+> KIMCO REALTY 
+> 
+> MILONE, ANNA, PROPERTY MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12765597
+> 
+> KIMCO REALT
+
+#### [604. 75. ]
+> 19
+> 
+> KIMCO REALTY 
+> 
+> ENWALL, PAULA, ASST PROPERTY 
+> 
+> MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12765644
+> 
+> KIMCO REALT
+
+#### [604. 74. ]
+> ITISH VIRGIN 
+> 
+> ISLANDS
+> 
+> 12753971
+> 
+> K & H MANUFACTURING LLC 
+> 
+> 825 `CITADEL` DR E STE 250
+> 
+> COLORADO SPRINGS
+> 
+> CO
+> 
+> 80916
+> 
+> 12720325
+> 
+> K & H MANUF
+
+#### [604. 73. ]
+>  P1‐WEINGARTEN REALTY INVESTORS 
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA DRIVE \#125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> 12773057
+> 
+> 6187 P1‐WEINGART
+
+### Docket 467
+
+#### [467. 72. ]
+> RI OVERTON PARK, LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS 
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [467. 71. ]
+> il
+> 
+> 12766331 
+> 
+> WRI MUELLER, LLC 
+> 
+> ATTN: LEGAL DEPARTMENT 
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [467. 70. ]
+> 12767060 WRI JESS VENTURE 
+> 
+> C/O WEINGARTEN INVESTMENTS 
+> 
+> 2600 `CITADEL` PLACE DRIVE 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mail
+> 
+> 12766330
+
+#### [467. 69. ]
+> 59 
+> 
+> WRI ALLIANCE RILEY VENTURE 
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [467. 68. ]
+>  650 CALIF. ST., LLC 
+> 
+> C/O WEINGARTEN REALTY INVESTORS 
+> 
+> 2600 `CITADEL` PLAZA DR 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mail
+> 
+> 1
+
+#### [467. 67. ]
+> REALTY INVESTORS 
+> 
+> DOUGLAS, GENE 
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> GDOUGLAS@WEINGA
+
+#### [467. 66. ]
+> 29 WEINGARTEN REALTY INVESTORS 
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [467. 65. ]
+> 68917 WEINGARTEN NOSTAT, INC. 
+> 
+> ATTN: LEGAL DEPARTMENT 
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> First Class Mai
+
+#### [467. 64. ]
+> First Class Mail
+> 
+> 12766208 WEINGARTEN HERNDON PLAZA JV 
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> POB 924133 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77292-4133 
+> 
+> First Cla
+
+### Docket 418
+
+#### [418. 63. ]
+> 05684
+> 
+> WRI OVERTON PARK, LLC
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> FIRST CLASS MAIL
+> 
+> LC\_
+
+#### [418. 62. ]
+> LASS MAIL
+> 
+> LC\_002325
+> 
+> WRI MUELLER, LLC
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> FIRST CLASS MAIL
+> 
+> LC\_
+
+#### [418. 61. ]
+>  MAIL
+> 
+> LC\_003060
+> 
+> WRI JESS VENTURE
+> 
+> C/O WEINGARTEN INVESTMENTS
+> 
+> `CITADEL` PLACE DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> FIRST CLASS MAIL
+> 
+> LC\_002324
+> 
+> WRI
+
+#### [418. 60. ]
+> 
+> 
+> LC\_003059
+> 
+> WRI ALLIANCE RILEY VENTURE
+> 
+> C/O WEINGARTEN REALTY
+> 
+> `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> FIRST CLASS MAIL
+> 
+> LC
+
+#### [418. 59. ]
+> PIVOTAL 650 CALIF. ST., LLC
+> 
+> C/O WEINGARTEN REALTY INVESTORS
+> 
+> `CITADEL` PLAZA DR
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> FIRST CLASS MAIL
+> 
+> LC\_003
+
+#### [418. 58. ]
+> GARTEN REALTY INVESTORS
+> 
+> DOUGLAS, GENE
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> gdouglas@weingarten
+
+#### [418. 57. ]
+> LC\_002323
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> C/O WEINGARTEN REALTY
+> 
+> `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> FIRST CLASS MAIL
+> 
+> LC
+
+#### [418. 56. ]
+> IL
+> 
+> LC\_004964
+> 
+> WEINGARTEN NOSTAT, INC.
+> 
+> ATTN: LEGAL DEPARTMENT
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> FIRST CLASS MAIL
+> 
+> LC\_
+
+#### [418. 55. ]
+> 7206
+> 
+> FIRST CLASS MAIL
+> 
+> LC\_002197
+> 
+> WEINGARTEN HERNDON PLAZA JV
+> 
+> `CITADEL` PLAZA DRIVE
+> 
+> POB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292‐4133
+> 
+> FIRST CLASS MA
+
+### Docket 404
+
+#### [404. 54. ]
+> 24 
+> 
+> 2600
+> 
+>  Citadel Plaza Drive , Houston, TX, 
+> 
+> 77008
+> 
+>  
+> 
+> 2600
+> 
+>  `Citadel` Plaza Drive , Houston, TX, 
+> 
+> 77008
+> 
+>  
+> 
+> 50
+> 
+>  Packanack Lake Road
+
+#### [404. 53. ]
+> Industrial Way East2nd Floor , 
+> 
+> Eatontown, NJ, 07724 
+> 
+> 2600
+> 
+>  `Citadel` Plaza Drive , Houston, TX, 
+> 
+> 77008
+> 
+>  
+> 
+> 2600
+> 
+>  Citadel Plaza Dri
+
+#### [404. 52. ]
+> Suite 125Attn: 
+> 
+> General Counsel , Houston, TX, 77008 
+> 
+> 2600
+> 
+>  `Citadel` Plaza Drive, Suite 125Attn: 
+> 
+> General Counsel , Houston, TX,
+
+#### [404. 51. ]
+> oadway, Suite 201P.O. Box 9010 , 
+> 
+> Jericho, NY, 11753 
+> 
+> 2600
+> 
+>  `Citadel` Plaza Drive, Suite 125Attn: 
+> 
+> General Counsel , Houston, TX,
+
+### Docket 373
+
+#### [373. 50. ]
+>  retail fixtures 
+> 
+> 470 
+> 
+> WRI BROOKWOOD 
+> 
+> MARKETPLACE LLC 
+> 
+> 2600 `Citadel` Plaza Drive , Houston, TX, 
+> 
+> 77008 
+> 
+> Store Lease 
+> 
+> 1233 
+> 
+> 2623
+
+#### [373. 49. ]
+> /or retail fixtures 
+> 
+> 451 
+> 
+> Weingarten Realty Investors 
+> 
+> 2600 `Citadel` Plaza Drive, Suite 125Attn: 
+> 
+> General Counsel , Houston, TX,
+
+### Docket 351
+
+#### [351. 48. ]
+> retail fixtures
+> 
+> 470 4 74
+> 
+> WRI BROOKWOOD MARKETPLACE LLC
+> 
+> 2600 `Citadel` Plaza Drive , Houston, TX,
+> 
+> 77008
+> 
+> Store Lease
+> 
+> 1233
+> 
+> 2623 Peac
+
+#### [351. 47. ]
+> r retail fixtures
+> 
+> 451 4 55
+> 
+> Weingarten Realty Investors
+> 
+> 2600 `Citadel` Plaza Drive, Suite 125Attn:
+> 
+> General Counsel , Houston, TX,
+
+#### [351. 46. ]
+> or retail fixtures
+> 
+> 470 
+> 
+> WRI BROOKWOOD 
+> 
+> MARKETPLACE LLC
+> 
+> 2600 `Citadel` Plaza Drive , Houston, TX, 
+> 
+> 77008
+> 
+> Store Lease
+> 
+> 1233
+> 
+> 2623 Pea
+
+#### [351. 45. ]
+> nd/or retail fixtures
+> 
+> 451 
+> 
+> Weingarten Realty Investors
+> 
+> 2600 `Citadel` Plaza Drive, Suite 125Attn: 
+> 
+> General Counsel , Houston, TX,
+
+### Docket 294
+
+#### [294. 44. ]
+> \_007868 KIMCO REALTY CORPORATION
+> 
+> ATTN: LEGAL DEPARTMENT2600 `CITADEL` PLAZA DRIVE SUITE 125 
+> 
+> HOUSTON 
+> 
+> TX 
+> 
+> 77008 
+> 
+> Overnight mail
+> 
+> L
+
+### Docket 269
+
+#### [269. 43. ]
+> \_012085
+> 
+> WRI- TC INTERNATIONAL DRIVE 
+> 
+> VALUE CENTER, LLC
+> 
+> 2600 `CITADEL` PLAZA DRIVE, 
+> 
+> SUITE 125 ATTN: GENERAL 
+> 
+> COUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 7
+
+#### [269. 42. ]
+> l on 4/26/2023
+> 
+> LC\_009210
+> 
+> WRI SEMINOLE MARKETPLACE, LLC
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125 ATTN: GENERAL 
+> 
+> COUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77
+
+#### [269. 41. ]
+> 
+> 
+> WRI RETAIL POOL I, LP
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS2600 `CITADEL` 
+> 
+> PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on
+
+#### [269. 40. ]
+> 
+> 
+> WRI OVERTON PARK, LLC
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS2600 `CITADEL` 
+> 
+> PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on
+
+#### [269. 39. ]
+> 2023
+> 
+> LC\_002325
+> 
+> WRI MUELLER, LLC
+> 
+> ATTN: LEGAL 
+> 
+> DEPARTMENT2600 `CITADEL` 
+> 
+> PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on
+
+#### [269. 38. ]
+> LC\_003060
+> 
+> WRI JESS VENTURE
+> 
+> C/O WEINGARTEN 
+> 
+> INVESTMENTS2600 
+> 
+> `CITADEL` PLACE DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on 4/26/2023
+> 
+
+
+#### [269. 37. ]
+> l on 4/26/2023
+> 
+> LC\_002825
+> 
+> WRI BROOKWOOD MARKETPLACE LLC
+> 
+> 2600 `CITADEL` PLAZA DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on 4/26/2023
+> 
+
+
+#### [269. 36. ]
+> 03059
+> 
+> WRI ALLIANCE RILEY VENTURE
+> 
+> C/O WEINGARTEN 
+> 
+> REALTY2600 `CITADEL` 
+> 
+> PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail o
+
+#### [269. 35. ]
+> L 
+> 
+> 650 CALIF. ST., LLC
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS2600 `CITADEL` 
+> 
+> PLAZA DR SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on 4/
+
+#### [269. 34. ]
+> LER/THORNCREED 
+> 
+> II LLC
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS2600 `CITADEL` 
+> 
+> PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail o
+
+#### [269. 33. ]
+> RTEN/INVESTMENTS, INC.
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS2600 `CITADEL` 
+> 
+> PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail o
+
+#### [269. 32. ]
+> N REALTY INVESTORS
+> 
+> DOUGLAS, GENE
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA 
+> 
+> DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> gdouglas@weingarte
+
+#### [269. 31. ]
+> 2323
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> C/O WEINGARTEN 
+> 
+> REALTY2600 `CITADEL` 
+> 
+> PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail o
+
+#### [269. 30. ]
+> 9219
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> ATTN: GENERAL 
+> 
+> COUNSEL2600 `CITADEL` 
+> 
+> PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail o
+
+#### [269. 29. ]
+> ail on 4/26/2023
+> 
+> LC\_004088
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DRIVE 
+> 
+> SUITE 300
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on
+
+#### [269. 28. ]
+> ail on 4/26/2023
+> 
+> LC\_008540
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> 2600 `CITADEL` PLAZA DR 
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on 4/
+
+#### [269. 27. ]
+> 23
+> 
+> LC\_010174
+> 
+> WEINGARTEN NOSTAT, INC.
+> 
+> WEINGARTEN REALTY2600 
+> 
+> `CITADEL` PLACE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on 4/26/2
+
+#### [269. 26. ]
+> \_004964
+> 
+> WEINGARTEN NOSTAT, INC.
+> 
+> ATTN: LEGAL 
+> 
+> DEPARTMENT2600 `CITADEL` 
+> 
+> PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on
+
+#### [269. 25. ]
+> ass Mail on 4/26/2023
+> 
+> LC\_004070
+> 
+> WEINGARTEN NOSTAT, INC
+> 
+> 2600 `CITADEL` PLAZA, SUITE 
+> 
+> 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292-4133
+> 
+> First Class Mail on
+
+#### [269. 24. ]
+> WEINGARTEN NOSTAT INC.
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS2600 `CITADEL` 
+> 
+> PLAZA DRIVE, SUITE 125 
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 7
+
+#### [269. 23. ]
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA 
+> 
+> DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail o
+
+#### [269. 22. ]
+> ail on 4/26/2023
+> 
+> LC\_002197
+> 
+> WEINGARTEN HERNDON PLAZA JV
+> 
+> 2600 `CITADEL` PLAZA 
+> 
+> DRIVEPOB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292-4133
+> 
+> First Class Ma
+
+#### [269. 21. ]
+> 007868
+> 
+> KIMCO REALTY CORPORATION
+> 
+> ATTN: LEGAL 
+> 
+> DEPARTMENT2600 `CITADEL` 
+> 
+> PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class Mail on
+
+#### [269. 20. ]
+> 
+> 
+> WRI OVERTON PARK, LLC
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS2600 `CITADEL` 
+> 
+> PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail on
+
+#### [269. 19. ]
+> 2023
+> 
+> LC\_002325
+> 
+> WRI MUELLER, LLC
+> 
+> ATTN: LEGAL 
+> 
+> DEPARTMENT2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail on
+
+#### [269. 18. ]
+> LC\_003060
+> 
+> WRI JESS VENTURE
+> 
+> C/O WEINGARTEN 
+> 
+> INVESTMENTS2600 
+> 
+> `CITADEL` PLACE DRIVE
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail on 4/26/2023
+> 
+
+
+#### [269. 17. ]
+> 03059
+> 
+> WRI ALLIANCE RILEY VENTURE
+> 
+> C/O WEINGARTEN 
+> 
+> REALTY2600 `CITADEL` 
+> 
+> PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail o
+
+#### [269. 16. ]
+> L 650 
+> 
+> CALIF. ST., LLC
+> 
+> C/O WEINGARTEN REALTY 
+> 
+> INVESTORS2600 `CITADEL` 
+> 
+> PLAZA DR SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail on 4/
+
+#### [269. 15. ]
+> LC\_005682
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> LANCASTER, KAREN
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> klancaster@weingarte
+
+#### [269. 14. ]
+> N REALTY INVESTORS
+> 
+> DOUGLAS, GENE
+> 
+> ATTN: GENERAL COUNSEL
+> 
+> 2600 `CITADEL` PLAZA DRIVE, 
+> 
+> SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> gdouglas@weingarte
+
+#### [269. 13. ]
+> 2323
+> 
+> WEINGARTEN REALTY INVESTORS
+> 
+> C/O WEINGARTEN 
+> 
+> REALTY2600 `CITADEL` 
+> 
+> PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail o
+
+#### [269. 12. ]
+>  INVESTORS
+> 
+> BURBANK, PAIGE, 
+> 
+> REGIONAL PROPERTY 
+> 
+> MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> pburbank@weingarten.
+
+#### [269. 11. ]
+> 5549
+> 
+> WEINGARTEN REALTY
+> 
+> WALKER, LORI, PROPERTY 
+> 
+> MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE, SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> lwalker@weingarten.
+
+#### [269. 10. ]
+> \_004964
+> 
+> WEINGARTEN NOSTAT, INC.
+> 
+> ATTN: LEGAL 
+> 
+> DEPARTMENT2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> First Class mail on
+
+#### [269. 9. ]
+> ail on 4/26/2023
+> 
+> LC\_002197
+> 
+> WEINGARTEN HERNDON PLAZA JV
+> 
+> 2600 `CITADEL` PLAZA 
+> 
+> DRIVEPOB 924133
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77292‐4133
+> 
+> First Class ma
+
+#### [269. 8. ]
+> LC\_002920
+> 
+> KIMCO REALTY
+> 
+> MILONE, ANNA, PROPERTY 
+> 
+> MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> amilone@kimcorealty.
+
+#### [269. 7. ]
+> 919
+> 
+> KIMCO REALTY
+> 
+> ENWALL, PAULA, ASST 
+> 
+> PROPERTY MANAGER
+> 
+> 2600 `CITADEL` PLAZA DRIVE SUITE 125
+> 
+> HOUSTON
+> 
+> TX
+> 
+> 77008
+> 
+> penwall@kimcorealty.
+
+### Docket 225
+
+#### [225. 6. ]
+> tail fixtures
+> 
+> 474 4
+> 
+>  76 
+> 
+> WRI BROOKWOOD
+> 
+> MARKETPLACE LLC
+> 
+> 2600 `Citadel` Plaza Drive , Houston, TX,
+> 
+> 77008
+> 
+> Store Lease
+> 
+> 1233
+> 
+> 2623 Peac
+
+#### [225. 5. ]
+> r retail fixtures
+> 
+> 455 4
+> 
+> 57
+> 
+> Weingarten Realty Investors
+> 
+> 2600 `Citadel` Plaza Drive, Suite 125Attn:
+> 
+> General Counsel , Houston, TX,
+
+#### [225. 4. ]
+>  Personal Property
+> 
+> 474 
+> 
+> WRI BROOKWOOD 
+> 
+> MARKETPLACE LLC
+> 
+> 2600 `Citadel` Plaza Drive , Houston, TX, 
+> 
+> 77008
+> 
+> Store Lease
+> 
+> 1233
+> 
+> 2623 Pea
+
+#### [225. 3. ]
+> nd/or retail fixtures
+> 
+> 455 
+> 
+> Weingarten Realty Investors
+> 
+> 2600 `Citadel` Plaza Drive, Suite 125Attn: 
+> 
+> General Counsel , Houston, TX,
+
+### Docket 79
+
+#### [79. 2. ]
+>  retail fixtures 
+> 
+> 476 
+> 
+> WRI BROOKWOOD 
+> 
+> MARKETPLACE LLC 
+> 
+> 2600 `Citadel` Plaza Drive , Houston, TX, 
+> 
+> 77008 
+> 
+> Store Lease 
+> 
+> 1233 
+> 
+> 2623
+
+#### [79. 1. ]
+>  
+> 
+> Personal Property 
+> 
+> 457 
+> 
+> Weingarten Realty Investors 
+> 
+> 2600 `Citadel` Plaza Drive, Suite 125Attn: 
+> 
+> General Counsel , Houston, TX,

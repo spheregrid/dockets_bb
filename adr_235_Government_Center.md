@@ -1,0 +1,136 @@
+
+## adr: 235 Government Center
+
+[Back to main Index](README.md)
+
+Total hits: `6`
+
+Dockets hit: 21, 168, 604, 640, 2135, 
+
+### Docket 2135
+
+#### [2135. 6. ]
+> EAR PUBLIC UTILITY AUTH 
+> 
+> CAPE FEAR PUBLIC UTILITY AUTHORITY
+> 
+> `235 GOVERNMENT CENTER` DR
+> 
+> WILMINGTON
+> 
+> NC
+> 
+> 28403
+> 
+> 16646196
+> 
+> 12746215
+> 
+> CAPEL INC. 
+> 
+> 831 N
+
+### Docket 640
+
+#### [640. 5. ]
+> EAR PUBLIC UTILITY AUTH 
+> 
+> CAPE FEAR PUBLIC UTILITY AUTHORITY
+> 
+> `235 GOVERNMENT CENTER` DR
+> 
+> WILMINGTON
+> 
+> NC
+> 
+> 28403
+> 
+> 12667426
+> 
+> CAPITAL ELECTRIC COOP INC 
+> 
+
+
+### Docket 604
+
+#### [604. 4. ]
+> EAR PUBLIC UTILITY AUTH 
+> 
+> CAPE FEAR PUBLIC UTILITY AUTHORITY
+> 
+> `235 GOVERNMENT CENTER` DR
+> 
+> WILMINGTON
+> 
+> NC
+> 
+> 28403
+> 
+> 12664335
+> 
+> CAPE GIRARDEAU KIWANIS FNDT
+
+### Docket 168
+
+#### [168. 3. ]
+> FEAR PUBLIC UTILITY AUTH
+> 
+> CAPE FEAR PUBLIC UTILITY
+> 
+> AUTHORITY
+> 
+> `235 GOVERNMENT CENTER`
+> 
+> DR
+> 
+> WILMINGTON, NC 28403
+> 
+> 10077643
+> 
+> WATER - SEWER
+> 
+>  200
+> 
+> CASCADE
+
+#### [168. 2. ]
+> R PUBLIC UTILITY AUTH 
+> 
+> CAPE FEAR PUBLIC UTILITY 
+> 
+> AUTHORITY 
+> 
+> `235 GOVERNMENT CENTER` 
+> 
+> DR 
+> 
+> WILMINGTON, NC 28403 
+> 
+> 10077643 
+> 
+> WATER - SEWER 
+> 
+>  200 
+> 
+> C
+
+### Docket 21
+
+#### [21. 1. ]
+> FEAR PUBLIC UTILITY AUTH
+> 
+> CAPE FEAR PUBLIC UTILITY AUTHORITY
+> 
+> `235 GOVERNMENT CENTER` DR
+> 
+> WILMINGTON, NC 28403
+> 
+> 10077643
+> 
+> WATER - SEWER
+> 
+>  176 
+> 
+>  200 
+> 
+
